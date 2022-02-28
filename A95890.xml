@@ -1,0 +1,1985 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for malignants: or, Gods hand against God-haters. Containing a most terrible yet true relation of the many most fearefull personall examples (in these present times, since the yeere, 1640.) of Gods most evident and immediate wrath against our malevolent malignants. Together with a caveat for cowards and unworthy (either timorous or treacherous) newters. Collected for Gods honour, and the ungodlies horrour, by John Vicars. Imprimatur hic liber. Iohn White.</title>
+            <author>Vicars, John, 1579 or 80-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 129 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95890</idno>
+            <idno type="STC">Wing V317</idno>
+            <idno type="STC">Thomason E33_18</idno>
+            <idno type="STC">ESTC R19020</idno>
+            <idno type="EEBO-CITATION">99860543</idno>
+            <idno type="PROQUEST">99860543</idno>
+            <idno type="VID">112665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112665)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E33[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for malignants: or, Gods hand against God-haters. Containing a most terrible yet true relation of the many most fearefull personall examples (in these present times, since the yeere, 1640.) of Gods most evident and immediate wrath against our malevolent malignants. Together with a caveat for cowards and unworthy (either timorous or treacherous) newters. Collected for Gods honour, and the ungodlies horrour, by John Vicars. Imprimatur hic liber. Iohn White.</title>
+                  <author>Vicars, John, 1579 or 80-1652.</author>
+               </titleStmt>
+               <extent>[8], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Rothwell, at the signe of the Sunne in Pauls church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a blank preliminary leaf.</note>
+                  <note>Annotation on Thomason copy: "feb: 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112665:1" rendition="simple:additions"/>
+            <p>A
+LOOKING-GLASSE
+FOR
+MALIGNANTS:
+OR,
+Gods hand againſt God-haters. CONTAINING
+A moſt terrible yet true relation of the many
+moſt fearefull perſonall examples (in theſe preſent
+times, ſince the yeere, 1640.) of Gods moſt evident and
+immediate wrath againſt our malevolent Malignants. Together with a Caveat for Cowards and unworthy
+(either timorous or treacherous) Newters. COLLECTED
+<hi>For Gods honour, and the ungodlies horrour,</hi>
+BY
+JOHN VICARS.</p>
+            <bibl>Pſalm. 120. 3, 4.</bibl>
+            <q>What ſhall be given, or done unto thee thou falſe tongue? even ſharpe
+Arrowes with hot coales of Iuniper.</q>
+            <bibl>Jerem. 18. 18.</bibl>
+            <q>Then ſaid they (Iſraels malignants) come, and let us deviſe devices a<g ref="char:EOLhyphen"/>gainſt
+Jeremiah; come and let us ſmite him with the tongue, and let
+us not give heed to any of his words.</q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur hic Liber</p>
+                        <closer>
+                           <signed>Iohn White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Iohn Rothwell,</hi> at the ſigne of the Sunne in Pauls
+Church-yard. 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112665:2"/>
+            <head>TO THE
+RIGHT HONOURABLE
+Sir IOHN WOLLASTONE,
+Knight; Lord Major of the renowned
+City of LONDON:
+AND
+To the Right Honourable and truly
+elect Lady, the Lady WOLLASTONE, his
+moſt vertuous and truly pious Conſort; J. V. moſt humbly and heartily prayeth all
+encreaſe of Honour here, and the bleſſed aſſurance
+of Heaven hereafter.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our owne ſingular, and even Connative
+<hi>Candor, piety,</hi> and <hi>courteſie</hi> to <hi>All;</hi> and
+many and moſt <hi>immerited favours,</hi> deepely
+and duely ingaging <hi>Me</hi> to both your <hi>Ho<g ref="char:EOLhyphen"/>nours,</hi>
+have induced, yea compelled me to
+be ever moſt ſtudious of bounden <hi>Grati<g ref="char:EOLhyphen"/>tude.</hi>
+I therefore (with that honeſt poore
+<hi>Countrey man,</hi> of whom I have read, who
+ſeeing many <hi>Princes</hi> and <hi>Nobles</hi> preſenting
+to their <hi>Emperour</hi> very rich and rare <hi>Preſents; He</hi> alſo to ſhew his
+love, brought onely his <hi>owne Picture</hi> painted, and holding forth in
+his hand the figure of a faire and rich <hi>Iewell,</hi> with this Motto over
+it, <hi>Et hoc vellem:</hi> That is, <hi>And I would give ſuch a Iewell as this is,
+were I able.</hi> So I (I ſay) having no better a <hi>preſent</hi> (as yet) to pre<g ref="char:EOLhyphen"/>ſent
+<pb facs="tcp:112665:3"/>
+to your <hi>Honours,</hi> have moſt humbly made bold to dedicate to
+both your <hi>Honours</hi> (together with my <hi>devoted ſelfe</hi>) this plaine
+yet uſefull <hi>Looking-glaſſe.</hi> VVhich though it be but of a homely
+dreſſe, yet will repreſent to your <hi>Honours</hi> variety of remarkable
+objects, touching the miſerable <hi>Malignants</hi> and <hi>Anti-Parliamen<g ref="char:EOLhyphen"/>tarians</hi>
+of theſe our times; moſt worthy (I beleeve) your <hi>Honours</hi>
+ſerious view and favourable acceptance. And to whom, indeed,
+may I more fitly tender ſuch a tender and fragil piece or <hi>utenſill,</hi>
+as a <hi>Looking-Glaſſe</hi> is, then to your good <hi>Honours,</hi> whom both I
+and this whole City, yea I may ſay, the whole Kingdome doe
+know by moſt happy experience (witneſſe your good <hi>Lordſhips</hi>
+moſt pious, prudent, and vertuous <hi>Government</hi> of this famous City,
+and witneſſe alſo your good <hi>Ladyſhips Maſculine vertues,</hi> as ſo
+many precious <hi>Pearles</hi> treaſured up in a <hi>Feminine Cabinet,</hi> I meane
+a moſt <hi>heroicall holy Heart,</hi> together with the conſtancie and loy<g ref="char:EOLhyphen"/>alty
+of both your <hi>Honours</hi> to <hi>God</hi> and <hi>Goodneſſe</hi> in the <hi>Parliaments
+Cauſe;</hi> and whom therefore (I ſay) I know <hi>moſt willing</hi> to enter<g ref="char:EOLhyphen"/>taine
+and uſe this my <hi>Looking-Glaſſe, Candidâ manu,</hi> with candid
+and courteous <hi>Acceptation,</hi> and alſo <hi>moſt able</hi> to patronage and
+protect it, <hi>A rapacibus &amp; furioſis malignantium unguibus,</hi> from the
+uncivill and defiling fingers of any of all our unreaſonable male<g ref="char:EOLhyphen"/>volent
+<hi>Malignants.</hi> Goe on therefore, my good Lord (as moſt
+honourably you do, guarded and guided by the wiſdom and power
+of <hi>Gods holy Spirit,</hi> and ſupported by the daily prayers of <hi>Gods
+Saints and Servants</hi>) to countenance and encourage <hi>Goodneſſe,</hi> and
+to diſcountenance and keepe under the enemies of <hi>Godlineſſe, Peace</hi>
+and <hi>Truth,</hi> even as your <hi>Honours</hi> late moſt worthy <hi>Predeceſſour</hi>
+did, to Gods glory and his everlaſting honour; ever ſetting before
+your <hi>Honours</hi> eyes, and having in your bleſſed <hi>Breſt</hi> that <hi>heart-for<g ref="char:EOLhyphen"/>tifying-promiſe</hi>
+and admirable incouragement given by God himſelf
+to his faithfull ſervant <hi>Joſuah,</hi>
+               <note place="margin">Joſuah 1. 5, 6.</note> 
+               <hi>As I was with my ſervant Moſes, ſo
+will I be with thee,</hi>
+               <note place="margin">Heb. 13 5.</note> 
+               <hi>I will not faile thee nor forſake thee. Be ſtrong
+therefore and of a good courage.</hi> VVhich that your <hi>good Lordſhip</hi> moſt
+holily and happily may be, is and ever ſhall be the dayly prayer of</p>
+            <closer>
+               <signed>Your good Honours moſt humbly devoted,
+JOHN VICARS.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:112665:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S it is too frequently and familiarly knowne (<hi>bene<g ref="char:EOLhyphen"/>volent</hi>
+or <hi>malevolent</hi> Reader, whoever thou art)
+that to the hearing of Gods Word there come as well
+<hi>eares of ſcorne</hi> as <hi>eares of corne:</hi> So, I make no
+doubt but this my <hi>Looking-Glaſſe</hi> ſhall meet <hi>eyes
+of enmity</hi> and <hi>hearts of rancour,</hi> as it ſhall of
+<hi>Amicability</hi> and <hi>Chriſtian Candor.</hi> However, being careleſſe of
+the <hi>malignity</hi> of the <hi>one,</hi> and moſt ſtudious of the <hi>benignity</hi> of the
+<hi>other,</hi> I here invite thee to the view thereof; wherein thou ſhalt ſee
+repreſented to thine <hi>eyes</hi> and <hi>underſtanding, various, ſerious,</hi> and <hi>ſea<g ref="char:EOLhyphen"/>ſonable
+objects,</hi> fit for them both to contemplate, ruminate, and feed
+upon. <hi>Variety,</hi> I ſay, of <hi>evidences</hi> and <hi>examples</hi> of Gods moſt juſt
+and immediate indignation <hi>againſt</hi> and <hi>upon</hi> the unnaturall, malici<g ref="char:EOLhyphen"/>ous,
+and even beſtiall <hi>Malignants</hi> of theſe times (for ſo ſayes the Pro<g ref="char:EOLhyphen"/>phet
+<hi>David,</hi>
+               <note place="margin">Pſal. 49. 12.</note> 
+               <hi>That even the moſt honourable of men wanting hea<g ref="char:EOLhyphen"/>venly
+wiſdome and underſtanding, are compared to beaſts that
+periſh.</hi> And well were it with them too, were they but as bad as beaſts
+and had not <hi>immortall ſoules,</hi> as ſome <hi>Mad-braines</hi> of late have moſt
+falſly, fooliſhly, and blaſphemouſly gone about to prove and prate of)
+who impiouſly fret and fight againſt <hi>God</hi> and his <hi>Cauſe.</hi> Together with
+our ſilly and ſottiſh <hi>Newters</hi> and uncomfortable <hi>Cowards,</hi> who time<g ref="char:EOLhyphen"/>rouſly
+or treacherouſly deſert and forſake their <hi>God</hi> in the <hi>Parliaments
+Cauſe,</hi> which unqueſtionably is <hi>Gods.</hi> By all which ſad and ſerious
+<hi>Examples</hi> (for, as our old Axiome is, <hi>Examples move more, and
+are more prevalent than Precepts</hi>) my maine and onely aime is to
+endeavour (by Gods aſſiſtance, for the Chriſtian love I beare to their
+ſoules eſpecially) to ſhew them the <hi>errours</hi> and <hi>evils</hi> of their <hi>courſes</hi>
+and <hi>carriages</hi> therein, and (if it be poſſible) to worke and win them
+<pb facs="tcp:112665:4"/>
+to a true and timely retractation for the good of their <hi>ſoules</hi> and <hi>bo<g ref="char:EOLhyphen"/>dies</hi>
+both here and hereafter.</p>
+            <p>But whereas,<note place="margin">Object.</note> it may be, our <hi>Malignants</hi> will here object, either cut
+of <hi>incredulity,</hi> or <hi>malignancy,</hi> or both, that all theſe fearfull <hi>exam<g ref="char:EOLhyphen"/>ples</hi>
+here alleaged, are but <hi>Chimaera's,</hi> and falſe or fictious <hi>Bug-bears</hi>
+to ſcare children or fools, and therefore they the leſſe regard them.</p>
+            <p>All that I will anſwer hereunto is this,<note place="margin">Anſw.</note> That I profeſſe (as in the
+preſence of God) I have uſed all <hi>care</hi> and <hi>diligence</hi> to ſearch and be
+aſſured of <hi>the truth of them all,</hi> and am able to produce very able and
+honeſt <hi>teſtimonies</hi> of them, beſides what I have expreſſed with the <hi>Ex<g ref="char:EOLhyphen"/>amples</hi>
+themſelves. If therefore our unhappy and hood-winkt <hi>Malig<g ref="char:EOLhyphen"/>nants,</hi>
+through their owne <hi>flinty obſtinacy,</hi> or <hi>benummed ignorance</hi>
+and <hi>incredulity</hi> (whereby <hi>etiamſi perſuaſeris, non perſuadebis,</hi>
+Though you make things ever ſo cleare, yet they will not be convinced)
+will not ſuffer theſe things to worke ſo kindely on their Conſciences as is
+herein <hi>deſired</hi> and <hi>indeavoured;</hi> yet then I am confidently perſwaded
+(by Gods gracious aſſiſtance) they may produce <hi>this threefold iſſue
+and effect.</hi>
+               <note place="margin">1.</note> Firſt, they may be a meanes to confirme and ſtrengthen the
+faithfull and faſt friends of the Parliament in their godly and well<g ref="char:EOLhyphen"/>grounded
+reſolution and Chriſtian courage to perſevere therein.<note place="margin">2.</note> Second<g ref="char:EOLhyphen"/>ly,
+to reduce and reforme ſome (at leaſt) of the more moderate, tender,
+and fearfull-ſpirited ones.<note place="margin">3.</note> And thirdly, they muſt needs ſerve for the
+greater condemnation of our deſperate <hi>Malignants,</hi> and to leave them
+(thereby) utterly inexcuſable, if ſtill they perſiſt in their perverſe and
+froward obduracie. But what ever be the iſſue, <hi>Liberari egomet ani<g ref="char:EOLhyphen"/>mam
+meam.</hi> I have, ſo far, diſcharged my duty, and will yet farther
+unfainedly pray, that the Lord may thereby get ſome glory, though by
+ſo weake and unworthy an inſtrument, as is</p>
+            <closer>
+               <signed>Thine in the Lord,
+JOHN VICARS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112665:4"/>
+            <head>A
+LOOKING-GLASSE
+FOR
+MALIGNANTS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat there hath been in all ages from the begin<g ref="char:EOLhyphen"/>ning
+of the World,<note place="margin">A naturall An<g ref="char:EOLhyphen"/>tipathy in the wicked againſt the godly.</note> even ever ſince that grand
+enmity which God put between the <hi>Womans</hi>
+and the <hi>Serpents</hi> ſeed, a naturall <hi>Antipathie</hi> and
+<hi>inveterate malignity</hi> in the <hi>wicked of the World</hi>
+againſt the <hi>godly,</hi> is undeniable and moſt cleare
+both in ſacred, prophane, and morall Hiſtories.
+And that this <hi>connative malignity</hi> in them hath in all places and
+times broken out into moſt deadly feud and pernicious <hi>Perſecuti<g ref="char:EOLhyphen"/>ons</hi>
+both by <hi>Hand</hi> and <hi>Tongue,</hi> eſpecially, is as cleare and conſpi<g ref="char:EOLhyphen"/>cuouſly
+apparent to all that have their eyes in their heads and will
+ſee, or underſtanding in their hearts, and not be wilfully blind and
+obſtinately hard-hearted.<note place="margin">Gods hand a<g ref="char:EOLhyphen"/>gainſt Truth-Traducers.</note> And that God alſo, hath evermore moſt
+evidently and eminently manifeſted his high indignation, and even
+immediate wrath and diſpleaſure, eſpecially on <hi>Tongue-perſecu<g ref="char:EOLhyphen"/>ters</hi>
+of his precious people, and on blaſphemous <hi>Traducers</hi> and be<g ref="char:EOLhyphen"/>ſmearers
+of his immaculate <hi>Truth,</hi> all times and places can produce
+moſt copious preſidents and moſt ſad examples.</p>
+            <p>To paſſe by and pretermit all <hi>by-paſt preſidents</hi> and former feare<g ref="char:EOLhyphen"/>full
+examples of Gods immediate and revengefull hand on ſuch
+<hi>malignant Delinquents</hi> in former ages, and extant (I ſay) in ſacred
+Scriptures and other Hiſtories, and not to inſiſt on that moſt re<g ref="char:EOLhyphen"/>markable
+one in <hi>Gods booke,</hi> though moſt punctually pertinent to
+<pb n="2" facs="tcp:112665:5"/>
+our purpoſe,<note place="margin">2 Kings 2. 23, 24.</note> of above <hi>forty children</hi> ſlaine by <hi>two wild Beares</hi> im<g ref="char:EOLhyphen"/>mediately
+upon their mocking the godly Prophet of the Lord, and
+onely calling him <hi>Bald pate</hi> in ſcorne and deriſion; juſt as our ma<g ref="char:EOLhyphen"/>lignants
+and their children jeeringly and ſc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffingly call Gods peo<g ref="char:EOLhyphen"/>ple
+now adaies by that fooliſh &amp; non-ſence name of <hi>Round-heads.</hi> To
+paſſe by this, I ſay, and all other of ancient or more moderne times,
+and to come briefly and roundly (ſince they will have it ſo) to our
+owne times, even ſince the moſt unhappy breaking out of theſe
+moſt unnaturall and inteſtine bloody broyles within our Kingdom
+of <hi>England;</hi>
+               <note place="margin">
+                  <hi>England</hi> not empty of ex<g ref="char:EOLhyphen"/>amples of Gods wrath a<g ref="char:EOLhyphen"/>gainſt Tongue-perſecuters of Truth.</note> wherein God hath not left us empty (in Chriſtian
+ſorrow be it mentioned) of many moſt evident demonſtrations of
+his juſtly incenſed indignation againſt the <hi>malignant Heart and
+Tongue-perſecuters</hi> of our times (againſt whom I mainely intend
+this Treatiſe) but hath given us as many and as memorable ſad
+ſpectacles of his apparent diſpleaſure, in his ſcoffing enemies ruine,
+ſorrow and ſhame, as ever any former age or Nation ſaw and ob<g ref="char:EOLhyphen"/>ſerved;
+which being ſo freſh and fully knowne among us, even
+many of us yet ſurviving, they may moſt juſtly ſerve (as I conceive)
+both as occaſions of griefe and godly ſorrow in Gods Saints to ſee
+theſe <hi>miſerable malignants,</hi> who forſooth pretend and boaſt them<g ref="char:EOLhyphen"/>ſelves
+as brave <hi>Proteſtants</hi> as the beſt, yet to be ſo Godleſſe and
+graceleſſe, ſo bitingly and bitterly to flout and affront the <hi>Lord
+Chriſt</hi> himſelfe in his <hi>holy members,</hi> and in his moſt <hi>glorious cauſe;</hi>
+and alſo of moſt juſt ſhame and bluſhing at leaſt (if not of heart-breaking
+and bleeding converſion) in them all to ſee ſo dangerous
+and deſperately dying conditions of their malicious and malevo<g ref="char:EOLhyphen"/>lent
+<hi>brethren in iniquity;</hi>
+               <note place="margin">Optimum eſt alienâ ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ui iaſaniâ.</note> and thereby either to learne (and indeed
+it is a ſpeciall piece of wiſdome <hi>to learne to be wiſe by other mens
+miſeries</hi>) to feare God and doe no more ſo ſinfully, or elſe moſt
+certainely and infallibly to feare and looke for like wrath and ruine,
+ſooner or latter, in one kind or other, if not I ſay prevented by true
+and timely repentance.</p>
+            <p>Now in the proſecution of this Treatiſe,<note place="margin">A threefold modell of the Mirrour or Looking-glaſſe.</note> and in the framing and
+forming of this our intended terrour ſtriking <hi>Looking glaſſe,</hi> I
+ſhall by Gods aſſiſtance, with all convenient brevity and hiſtoricall
+fidelity, endeavour to ſhew and ſet forth theſe three things.</p>
+            <p>Firſt, I ſhall herein repreſent and ſet forth unto the fight of our
+<hi>mole-ey<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Malignants,</hi>
+               <note place="margin">1. Gods hand againſt malig<g ref="char:EOLhyphen"/>nants and their cauſe.</note> (if, at leaſt, they will not too peeviſhly and
+perverſly ſhut up their eyes againſt moſt cleare and radiantly <hi>Sunne<g ref="char:EOLhyphen"/>ſhine
+<pb n="3" facs="tcp:112665:5"/>
+Truths) Gods moſt evident and eminent hand againſt our male<g ref="char:EOLhyphen"/>volent
+malignants, and their moſt accurſed cauſe;</hi> in divers remark<g ref="char:EOLhyphen"/>able
+<hi>generall</hi> pieces and paſſages of <hi>Gods admirable providence, croſ<g ref="char:EOLhyphen"/>ſing
+and curbing their moſt wicked courſes</hi> and <hi>contrivements</hi> againſt
+<hi>God,</hi> in our <hi>Parliament</hi> and their juſt proceedings; and then alſo in
+ſome <hi>particular</hi> neerer and cloſer <hi>perſonall</hi> and peculiar demonſtra<g ref="char:EOLhyphen"/>tions
+of theſe cleare Truths.</p>
+            <p>Secondly, I ſhall moſt conſpicuouſly and apparently perſonate
+and ſhew unto them <hi>Gods moſt heavy hand upon malignants,</hi>
+               <note place="margin">2. Gods moſt hea<g ref="char:EOLhyphen"/>vy hand upon malignants perſons.</note> in many
+moſt immediate and fearefully inflicted judgements and <hi>perſonall
+puniſhments,</hi> ſuddenly and ſorely laid upon them, even in the very
+<hi>acting</hi> of their <hi>malignancy;</hi> whereby they muſt needs with <hi>Pharao's</hi>
+malignant <hi>Magicians</hi> cry out and confeſſe, <hi>Digitus Dei,</hi> certainly,
+this was no leſſe then the <hi>very hand of God upon them.</hi>
+            </p>
+            <p>Thirdly and laſtly, I ſhall herein exhibite to the eyes and under<g ref="char:EOLhyphen"/>ſtanding,
+both of <hi>Malignants,</hi>
+               <note place="margin">3. A Caveat to Cowardly and faint-hearted Neuters.</note> and alſo of all <hi>cold</hi> and <hi>cowardly
+Neutrals,</hi> and of either <hi>falſe</hi> or <hi>faint-hearted deſerters</hi> of the <hi>Par<g ref="char:EOLhyphen"/>liament
+cauſe,</hi> and alſo of all unſetled and unreſolved weake Chri<g ref="char:EOLhyphen"/>ſtians
+in foure or five moſt <hi>memorable,</hi> and (as I may ſay) <hi>Tragae<g ref="char:EOLhyphen"/>comicall
+examples</hi> of Gods <hi>juſtice</hi> mixt with <hi>mercy,</hi> in juſtly woun<g ref="char:EOLhyphen"/>ding,
+yet graciouſly healing the conſciences of ſome ſuch as had
+either <hi>wilfully</hi> or <hi>weakely</hi> deſerted the <hi>Parliament,</hi> and therein
+<hi>Gods unqueſtionable cauſe,</hi> even the <hi>worke</hi> of a moſt glorious, pure,
+and pious <hi>Reformation</hi> of <hi>Church</hi> and <hi>State.</hi> And ſo I ſhall ſhut
+up this our <hi>Looking-glaſſe</hi> with a briefe hortatory concluſion to
+all ſorts of men and women both <hi>malignant</hi> and <hi>benevolent</hi> or <hi>wel<g ref="char:EOLhyphen"/>affected.</hi>
+            </p>
+            <p>And here now I might in the firſt place, rubbe up our <hi>malignants</hi>
+dull memories,<note place="margin">1. Gods hand a<g ref="char:EOLhyphen"/>gainſt malig<g ref="char:EOLhyphen"/>nants.</note> (and that not impertinently) and rouze up their
+drouſie eye-lids, and dead hearts, with the review and remembrance
+of that moſt remarkable and memorable paſſage of Gods provi<g ref="char:EOLhyphen"/>dence,
+how in the beginning of theſe moſt uncivill Civill-warres
+and commotions among us,<note place="margin">1. Gods hand a<g ref="char:EOLhyphen"/>gainſt malig<g ref="char:EOLhyphen"/>nants in the ſtrange beha<g ref="char:EOLhyphen"/>viour of the ſouldiers in the firſt Army into the North a<g ref="char:EOLhyphen"/>gainſt the Scots.</note> when by the prevalent power of the
+<hi>malignant Parricides</hi> on the Kings part, an Army was firſt raiſed to
+goe into the <hi>North</hi> againſt our honeſt and harmleſſe brethren of
+<hi>Scotland,</hi> and that the Souldiers then preſſed and provoked to goe
+forth to fight againſt them, in their march thither-ward (though
+they themſelves were but prophane fellowes, rude and irreligious
+young men, and therefore one would have thought, moſt fit in<g ref="char:EOLhyphen"/>ſtruments
+<pb n="4" facs="tcp:112665:6"/>
+to promote ſuch an irreligious worke and warre as that
+was,) how ſtrangely the Lord over ruled their hearts and ordered
+their ſpirits, making them to divert and turne all the edge of their
+ſury and diſaffection againſt the <hi>Malignant cauſe</hi> and <hi>quarrell,</hi> and
+upon the <hi>malignant</hi> and <hi>popiſh</hi> party themſelves that had ſet them
+on worke, over-turning their Altars in all Churches and Chappels
+whereſoever they came and found them breaking in pieces and
+burning the railes about them, plundering and terretying the ſcan<g ref="char:EOLhyphen"/>dalous
+<hi>Baals-prieſts,</hi> and <hi>popiſh ſonnes of Belial</hi> whereſoever they
+found any of them; and not onely refuſing to be led and comman<g ref="char:EOLhyphen"/>ded
+by <hi>popiſh</hi> Captaines and Commanders, but flying in their
+faces, and killing and wounding divers of them, Which <hi>hand of
+God againſt them,</hi> in the very ſame kind, hath been alſo admira<g ref="char:EOLhyphen"/>bly
+ſeconded now againe lately in thoſe 800 or 1000 Souldiers
+brought out of <hi>Ireland,</hi>
+               <note place="margin">2. Gods-hand a<g ref="char:EOLhyphen"/>gainſt malig<g ref="char:EOLhyphen"/>nants, in the Souldiers ſent out of <hi>Ireland</hi> (ſince the Ceſ<g ref="char:EOLhyphen"/>ſation of armes there) to fight againſt the Parliament.</note> ſince that accurſed <hi>ceſſation</hi> of Armes there,
+and landed at <hi>Bristol;</hi> intended for that traiterous parricide Sir
+<hi>Ralph Hopton,</hi> to fight againſt our moſt pious <hi>Parliament:</hi> But, I
+ſay, how admirably the Lord turned their hearts ſuddenly, from
+that moſt accurſed <hi>cauſe,</hi> and how that upon the tender of an <hi>oath</hi>
+unto them to fight againſt the <hi>Parliament,</hi> they utterly refuſed it,
+flew in the faces of their Commanders, and made them fly away,
+vowing and proteſting with apparent expreſſions of great indigna<g ref="char:EOLhyphen"/>tion,
+that they would not fight for the <hi>popiſh</hi> party in <hi>England,</hi> (as
+they had not in <hi>Ireland</hi>) and thereupon joyntly reſolved to force
+their way (as they moſt faithfully did) from <hi>Briſtol</hi> (where they
+were firſt landed) to <hi>Bathe,</hi> &amp; ſo to <hi>Glouceſter,</hi> to fight on the <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi>
+ſide, under the command of that ever moſt highly to be ho<g ref="char:EOLhyphen"/>noured
+commander Colonell <hi>Maſſie,</hi> who gave them moſt free
+and friendly entertainment.<note place="margin">3. Alſo in the Weſterne and Northern parts of the King<g ref="char:EOLhyphen"/>dome, notwith<g ref="char:EOLhyphen"/>ſtanding their ſeeming ſuc<g ref="char:EOLhyphen"/>ceſſe there.</note> To which I might here moſt perti<g ref="char:EOLhyphen"/>nently
+and pregnantly adde the yet more late defection of very
+many of their intended party both in the <hi>Weſt,</hi> to <hi>Lime, Poole,</hi> and
+<hi>Plimouth,</hi> even then when they had beene ready armed for <hi>Hop<g ref="char:EOLhyphen"/>tons</hi>
+ſervice in the <hi>South.</hi> In the <hi>North</hi> alſo divers both of the Gen<g ref="char:EOLhyphen"/>try
+and Commons who have deſerted <hi>New caſtle;</hi> and in <hi>Wales</hi> and
+<hi>Cheſhire</hi> alſo (now later, I ſay) of the <hi>Engliſh-Iriſh</hi> Souldiers, who
+would by no means fight againſt the <hi>Parliament.</hi>
+               <note place="margin">4. In many me<g ref="char:EOLhyphen"/>morable plots alſo admirably diſcovered, and croſſed.</note> Together with the
+detection and diſcovery of many moſt miſchievous <hi>plots</hi> and <hi>baſe
+deſignes</hi> of <hi>treachery</hi> moſt admirably and ſtrangely diſcovered, and ſo
+happily and timely fruſtrated, even by the immediate mercy and
+<pb n="5" facs="tcp:112665:6"/>
+good hand of God; as that moſt bloody <hi>Plot</hi> againſt the <hi>Parliament,
+Jan.</hi> 4. 1641. The Plot of the <hi>Scots</hi> Army at their former com<g ref="char:EOLhyphen"/>ing
+in among us, to have beene ſent againſt the <hi>Parliament</hi> and <hi>City</hi>
+of <hi>London.</hi> The late Plot againſt <hi>Hull</hi> by Sir <hi>Iohn Hotham</hi> and
+his ſonne. And the ſeverall moſt dangerous <hi>Plots</hi> (under pretence
+of <hi>Treaties for peace,</hi> forſooth) againſt the moſt renowned and fa<g ref="char:EOLhyphen"/>mous
+City of <hi>London,</hi> as that dangerous Plot by <hi>Waller, Challe<g ref="char:EOLhyphen"/>nor,
+Tomkins, &amp;c.</hi> And that more lately now of Sir <hi>Bazil Bro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,
+<g ref="char:V">Ʋ</g>iolet</hi> (or rather <hi>
+                  <g ref="char:V">Ʋ</g>arlet</hi>) and hypocriticall <hi>Riley;</hi> with very many
+other of theſe kindes almoſt all over the whole Kingdome, all too
+well knowne, and too tedious here to relate, and which I have
+moſt fully and particularly related in my <hi>Parliamentary Chronicle,</hi>
+intituled, <hi>God in the Mount.</hi>
+            </p>
+            <p>Together alſo with the Lords moſt admirable diſcountenancing,
+yea curſing and blaſting all the wicked deſignes in the Kings party
+ever ſince that hideous and helliſh ceſſation of Armes in <hi>Ireland,</hi>
+with thoſe moſt <hi>barbarous</hi> bloody and damnable <hi>Iriſh Rogues,</hi>
+               <note place="margin">5. In Gods moſt juſtly diſcoun<g ref="char:EOLhyphen"/>tenancing and making odious even to Malig<g ref="char:EOLhyphen"/>nants them<g ref="char:EOLhyphen"/>ſelves that horrid ceſſati<g ref="char:EOLhyphen"/>on of Armes in Ireland.</note>
+which was moſt impiouſly plotted by the wicked malignant Coun<g ref="char:EOLunhyphen"/>cellors
+on the Kings ſide, for their (falſly) hoped mighty advan<g ref="char:EOLhyphen"/>tage
+in the advancement of their <hi>bloody cauſe;</hi> but which hath (by
+Gods marvellous wiſdome, mercy, and good providence) proved
+one of the moſt <hi>ominous,</hi> and <hi>eminently</hi> odious meanes of the ruina<g ref="char:EOLhyphen"/>ting
+and overthrowing of their moſt <hi>accurſed cauſe</hi> and wicked
+<hi>courſes,</hi> even their <hi>malignants</hi> themſelves being judges; and which
+our good God hath clearly ratified, I ſay againe, by the extreme
+<hi>ill ſucceſſe</hi> they have had ever ſince in all their wicked undertakings;
+and contrariwiſe,<note place="margin">6. And their ex<g ref="char:EOLhyphen"/>treme ill ſuc<g ref="char:EOLhyphen"/>ceſſe ever ſince.</note> in the great and <hi>good ſucceſſe</hi> our God hath given
+to us ever ſince, eſpecially ever ſince our moſt holy and happy en<g ref="char:EOLhyphen"/>tring
+into a <hi>Covenant</hi> with our God, and <hi>bleſſed League</hi> with our
+honeſt and religious <hi>Brethren</hi> of <hi>Scotland,</hi>
+               <note place="margin">7. Our good ſuc<g ref="char:EOLhyphen"/>ceſſe ever ſince the Covenant with Scotland.</note> witneſſe our happy vi<g ref="char:EOLhyphen"/>ctories
+in <hi>Lincolnſhire, York<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire, Lime, Poole, Plimouth, Newport-Pannell,
+Aulton, Grafton-Houſe, Bewley-Houſe, Holts-Houſe,</hi> and
+<hi>Arundell-Caſtle,</hi> with others; in which places, ſome reckon the
+Enemy hath loſt (beſides exceeding much Armes and Ammuniti<g ref="char:EOLhyphen"/>on,
+and beſides the brave and <hi>rich ſhip</hi> taken at <hi>Arundell-Caſtle,</hi>
+a moſt admirable providence) betweene three and foure thouſand,<note place="margin">8. The admira<g ref="char:EOLhyphen"/>ble breaking out of the Swedes againſt Denmarke.</note>
+but we may juſtly reckon a farre greater number. Beſides, the ad<g ref="char:EOLhyphen"/>mirable
+providence of God in ſtirring up (beſide the whole Nati<g ref="char:EOLhyphen"/>on
+of our loyall brethren of <hi>Scotland</hi>) the whole Kingdome of
+<pb n="6" facs="tcp:112665:7"/>
+               <hi>Swethland,</hi> to fall furiouſly and fortunately on the Kingdome of
+<hi>Denmarke,</hi> a moſt admirable providentiall piece, mightily to croſſe
+and curbe our <hi>Engliſh Malignants</hi> hopes and deſignes againſt us.
+But to come more <hi>particularly</hi> and <hi>perſonally</hi> neere to our intended
+purpoſe in this firſt branch of our <hi>Looking-glaſſe of Gods hand
+againſt our Malignants;</hi> eſpecially, I ſay, becauſe perſonall <hi>parti<g ref="char:EOLhyphen"/>cularities</hi>
+come neerer and cloſer then <hi>generalities.</hi> I ſhall here
+therefore inſtance firſt in the ſtrange <hi>hand of God perſonally manifeſted
+againſt them,</hi> in that moſt admirable overture and alteration of the
+courſe of things to the ſhame and ſorrow of our unluckey Lordly
+Prelates, to live to ſee their voluptuous princely Palaces (as Win<g ref="char:EOLhyphen"/>cheſter
+houſe and Ely houſe) turned into priſons, but eſpecially
+the ſpacious and ſpecious palace of that <hi>Arch-adverſary</hi> of <hi>Chriſt</hi>
+and his <hi>Cauſe</hi> among us, that <hi>grand Ringleader</hi> and accurſed <hi>con<g ref="char:EOLhyphen"/>triver</hi>
+of all theſe our preſent miſchiefes and miſeries (next to our
+ſinnes) yea, the very <hi>head</hi> and <hi>heart</hi> of <hi>Clergy</hi> and <hi>Laick-Malig<g ref="char:EOLhyphen"/>nants</hi>
+(according to their owne <hi>Popiſh</hi> diſtinction) I meane the
+<hi>Arch-Prelate of Canterbury,</hi> on whom it moſt neerly and cloſely
+fell out by divine providence, ſo (ſtrangely and even admirably)
+ordering it.<note place="margin">9. Gods hand againſt Malig<g ref="char:EOLhyphen"/>nants in Do<g ref="char:EOLhyphen"/>ctor <hi>Laighton</hi> made maſter Lambeth houſe, now converted from a Palace to a Priſon.</note> Namely, that that honeſt and religious Gentleman,
+Doctor <hi>Laighton,</hi> that great and grievous <hi>Sufferer</hi> for the <hi>cauſe</hi> of
+<hi>Chriſt,</hi> under the cruell tyranny of that foreſaid <hi>popiſh Perſecuter,</hi>
+ſhould not onely live to ſee himſelfe delivered out of the ſnare, but
+his old <hi>grand Adverſary</hi> himſelfe to come into it in his ſtead; and
+that the ſaid <hi>Arch-Prelate</hi> ſhould be faſt lockt up as a traiterous
+priſoner in the <hi>Tower of London,</hi> whiles this good Doctor is made
+<hi>Lord</hi> and <hi>Maſter</hi> of the <hi>Prelates</hi> Palace at <hi>Lambeth,</hi> and this ſaid
+pompous or rather <hi>popiſh palace,</hi> where ſo many precious Saints
+and ſervants of the Lord had beene moſt wickedly arraigned and
+condemned to priſon, ſhould now be turned into a priſon, to lock
+up moſt looſe and prophane <hi>Malignants;</hi> a moſt ſtrange and ad<g ref="char:EOLhyphen"/>mirable
+<hi>hand of God</hi> certainly <hi>againſt them.</hi> Yea, and I might here
+againe remember them of that moſt remarkable overture of things
+among us in theſe later times; namely, how it moſt admirably
+pleaſed the Lord to bring it ſo to paſſe by his <hi>all overpowring hand
+of providence,</hi> that the <hi>Arch-Prelate</hi> of <hi>Canterbury</hi> being impriſon<g ref="char:EOLhyphen"/>ed
+in the Tower of <hi>London,</hi> as an <hi>Arch-Traitor</hi> to our <hi>Church</hi> and
+<hi>State;</hi> the <hi>Parliament</hi> ſhould be pleaſed to cauſe the ſaid <hi>Arch-Pre<g ref="char:EOLhyphen"/>lates</hi>
+lodgings in the Tower to be ſearched for dangerous &amp; traiter<g ref="char:EOLhyphen"/>terous
+<pb n="7" facs="tcp:112665:7"/>
+Papers, Books, and VVritings, and who muſt be the man
+fixed on for the performance of this ſervice, but that moſt famous
+and faithfull,<note place="margin">10. Gods hand a<g ref="char:EOLhyphen"/>gainſt Malig<g ref="char:EOLhyphen"/>nants in Ma<g ref="char:EOLhyphen"/>ſter <hi>William Prynnes,</hi> (for<g ref="char:EOLhyphen"/>merly a great ſufferer by the Arch Prelate of Canterbu<g ref="char:EOLhyphen"/>ry) being ſent to ſearch the ſaid Arch-Prelates lodg<g ref="char:EOLhyphen"/>ing in the Tower.</note> pious and patient <hi>Saint</hi> and <hi>Sufferer</hi> for <hi>Chriſt</hi> and
+his <hi>Cauſe,</hi> Maſter <hi>William Prynne;</hi> who coming into the ſaid <hi>Arch-Prelates</hi>
+bed-chamber betimes in the morning, with a guard of
+Souldiers to ſecure the buſineſſe, and approaching the <hi>Prelates</hi>
+bedſide before he was u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the <hi>Prelate</hi> asked him, who he was:
+This precious and ſweet Gentleman anſwered, my name is <hi>Prynne;</hi>
+VVhat, ſayes the <hi>Prelate,</hi> are you he that ſuffered? Yea, ſayes Ma<g ref="char:EOLhyphen"/>ſter
+<hi>Prynne,</hi> I am he whom you moſt unjuſtly and injuriouſly perſe<g ref="char:EOLhyphen"/>cuted.
+Juſt as good <hi>Joſeph</hi> ſaid to his <hi>brethren,</hi> at the time of his
+diſcovering and making himſelfe knowne unto them, <hi>I am Joſeph
+whom ye ſold into Egypt.</hi> O what a ſtab to the heart ſhould this have
+bin to this <hi>perſecuting Prelate</hi> at that word (<hi>I am that Prynne whom
+you cauſed ſo grievo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſly and ſo unjuſtly to ſuffer</hi>) had not his heart bin
+more hard &amp; ad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mantine then a nether mil-ſtone,<note place="margin">Gen. 45. 4.</note> and moſt extrem<g ref="char:EOLhyphen"/>ly
+cauterized, yea, ſtigmatized with the hotteſt iron of moſt deſpe<g ref="char:EOLhyphen"/>rate
+impenitency! and that then Maſter <hi>Prynne</hi> proceeding to the
+due execution of the charge and truſt repoſed in him by the Par<g ref="char:EOLhyphen"/>liament,
+ſhould (<hi>juſtiſſimâ illâ coeleſti Lege-Talionis</hi>) moſt juſtly,<note place="margin">Juſtiſſima coe<g ref="char:EOLhyphen"/>leſtis Lex-Tali<g ref="char:EOLhyphen"/>onis.</note> I
+ſay, ſearch the Pockets of the <hi>Prelates</hi> wearing clothes, before he
+would ſuffer him to put them on and riſe out of his bed, directly
+as he and ſome of his <hi>popiſhly</hi> affected Confederates had formerly
+dealt with ſome moſt eminent Members of a <hi>Parliam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt</hi> formerly
+diſſolved, and as he had cauſed Maſter <hi>Prynnes</hi> owne Chamber and
+Study, and many others alſo to be often moſt violently broken
+into and ſearched, to the deeply indangering of their precious
+lives (which undoubtedly he greedily hunted after) if it might
+have beene,<note place="margin">As was done to reverend Maſter <hi>Henry Burtons</hi> houſe and ſtudy.</note> but therein (praiſed be the Lord) God gave this
+<hi>curſt Cow</hi> (according to the Proverbe) or rather raging fat <hi>Bull
+of Baſhan,</hi> ſhort hornes; the Lords good providence and their
+owne innocence happily preventing this bloody deſigne of theirs.
+And might not here now this <hi>Arch-Prelate</hi> on the ſerious conſi<g ref="char:EOLhyphen"/>deration
+of theſe Premiſes, in juſt remorſe of Conſcience, have
+cryed out againſt himſelfe (like that heatheniſh King <hi>Adonibe<g ref="char:EOLhyphen"/>zeck,</hi>
+               <note place="margin">Judges 17.</note>
+had he not had, as I toucht before, a more then heathe<g ref="char:EOLhyphen"/>niſh,
+obdurate, and impenitent heart) <hi>Thus and thus have I done to
+others, and now am I thus juſtly ſerved by them;</hi> onely with this
+difference, That I am uſed farre more mercifully then I uſed
+them.</p>
+            <p>
+               <pb n="8" facs="tcp:112665:8"/>
+I might here alſo adde and copiouſly commemorate unto our
+<hi>mole-eyed Malignants</hi> Gods admirable providence in ſo ſtrangely
+ordering and diſpoſing of things by <hi>this preſent</hi> moſt memorable
+<hi>Parliament;</hi>
+               <note place="margin">11. Gods hand againſt the Malignant party in the Trienniall Parliament.</note> not onely to contrive a moſt free and ſpontaneous
+or voluntary conſent of all the <hi>three Eſtates</hi> in <hi>Parliament</hi> to the
+ſetling of a <hi>Trienniall Parliament</hi> for the future rectifying of
+things amiſſe in Church and State, and the more prudent and pro<g ref="char:EOLhyphen"/>vident
+moderation and government of all ſorts of State-affairs;
+but alſo, I ſay, that both <hi>King, Peers,</hi> and <hi>Commons,</hi> even <hi>both
+Houſes of Parliament,</hi> with his <hi>Majeſty,</hi> ſhould ſo admirably and
+unanimouſly make it indiſſoluble, and (but by the ſword, like
+<hi>Alexanders Gordian knot,</hi> which now the Kings <hi>Popiſh</hi> and <hi>Athe<g ref="char:EOLhyphen"/>iſticall</hi>
+Army is impiouſly, and (I truſt) fruitleſly labouring to do)
+irrevocable <hi>Act,</hi> That <hi>this preſent Parliament</hi> ſhould not bee diſ<g ref="char:EOLhyphen"/>ſolved
+nor broken up,<note place="margin">12. And eſpecially in a perpetua<g ref="char:EOLhyphen"/>ted Parlia<g ref="char:EOLhyphen"/>ment.</note> but by the joynt and unanimous conſent of
+<hi>both Houſes of Peers and Commons.</hi> Which <hi>Act</hi> of theirs (as it
+were) perpetuating <hi>this Parliament,</hi> by (I ſay) a moſt ſtrange pro<g ref="char:EOLhyphen"/>vidence
+of God, what a moſt admirable <hi>Block</hi> it hath laid in all
+the wicked <hi>wayes</hi> of that viperous generation of <hi>Atheiſts, Papiſts,</hi>
+and <hi>Malignants,</hi> mightily thwarting, croſſing, and cruſhing their
+moſt deſperate and deepeſt deſignes? I am not able (I acknow<g ref="char:EOLhyphen"/>ledge)
+to expreſſe it, and onely Time is able to make it manifeſt,
+to the glory of God, and wonder-ſtriking aſtoniſhment in the
+hearts of both <hi>Good</hi> and <hi>Bad.</hi>
+            </p>
+            <p>And though in the laſt, yet not in leaſt place, I might here put
+our Malignants in remembrance (for they are, as we all ſee, too
+willing to forget and ſlight both <hi>Gods hand againſt them,</hi> and his
+<hi>great mercies towards us</hi>) how by meanes of this preſent moſt pi<g ref="char:EOLhyphen"/>ous
+<hi>Parliament,</hi>
+               <note place="margin">13. Gods hand a<g ref="char:EOLhyphen"/>gainſt the Ma<g ref="char:EOLhyphen"/>lignants cauſe in Church-government and matters of Religion.</note> 
+               <hi>Gods hand hath beene moſt admirably bent againſt
+them</hi> and their moſt impious Cauſe, both in the <hi>expulſion,</hi> and (I
+truſt in the Lord) utter <hi>extirpation</hi> of that moſt <hi>Antichriſtian</hi> and
+tyrannicall <hi>Hierarchie of popiſh Prelates</hi> (and that moſt eſpecially by
+their owne proud practiſes and deſperate deſignes even againſt the
+Parliament it ſelfe, witneſſe their Petition to the King that ſpoil<g ref="char:EOLhyphen"/>ed
+their ſitting in Parliament) <hi>Arminian Doctors,</hi> and moſt ſcan<g ref="char:EOLhyphen"/>dalous
+<hi>Prieſts,</hi> thoſe <hi>ſonnes of Belial,</hi> all over the Kingdome:
+And alſo in their ſteads, the moſt holy and happy <hi>reduction</hi> and <hi>re<g ref="char:EOLhyphen"/>ſtauration</hi>
+of our baniſhed and abuſed, faithfull, painfull, and pious
+Paſtors, <hi>even after Gods owne heart;</hi> together thereby with the
+<pb n="9" facs="tcp:112665:8"/>
+bleſſed injoyment of pure and powerfull Ordinances, and that in
+admirable plenty and freedome, as the like was never ſeene in this
+Kingdome. Beſides, the rare and long deſired and now happily
+effected ruine and razing downe of <hi>popiſh</hi> high places among us,
+never (ſince the firſt Reformation) till now taken away; in defacing
+and deſtroying <hi>popiſh Images, Organs, Croſſes, Crucifixes,</hi> and ſuch
+like abominable and Idolatrous, ſuperſtitious, Popiſh, apiſh Trinkets
+both in Churches and elſewhere; eſpecially the ruinating of that
+moſt infamous and moſt abominable <hi>Romiſh</hi> Monument of idola<g ref="char:EOLhyphen"/>try
+<hi>Cheap-ſide Croſſe,</hi> in the very heart of <hi>London,</hi> and burning abun<g ref="char:EOLhyphen"/>dance
+of thoſe baſe and beggarly <hi>Romiſh Reliques,</hi> even in the very
+ſame place where that <hi>accurſed Croſſe</hi> had with a Whores forehead
+bin ſo long advanced among us; and (which is the ſum of all our
+juſt admiration in all forementioned) all theſe things done ſo ſoon,
+and in ſo ſpeedy a ſpace as within the compaſſe of two or three
+yeares at the moſt: Moſt admirable demonſtrations (I ſhould
+thinke) <hi>of Gods hand unqueſtionably thus ſeene and ſet againſt
+them.</hi>
+            </p>
+            <p>And might not then <hi>All theſe;</hi> yea, <hi>any one of theſe</hi> premiſed
+preſidents <hi>of Gods moſt immediate hand againſt them,</hi> moſt juſtly
+ſerve to even wreſt open the wilfully ſhut up, and blinded eyes of
+our Malignants? Sure, me thinkes, they ſhould, ſave that 'tis great<g ref="char:EOLhyphen"/>ly
+to be feared they are given up to a reprobate ſenſe, if they ſtill
+perſiſt in ſuch unheard of, and moſt ſtrangely <hi>marbled obſtinacy.</hi>
+But yet ſince they may peradventure in their accuſtomed hardneſſe
+of heart be little or nothing moved or prickt in Conſcience with
+theſe ſo pregnant preſidents and cleare demonſtrations of <hi>Gods vin<g ref="char:EOLhyphen"/>dicative
+hand againſt them.</hi> Yet, I ſay, we will come yet more cloſe
+upon them, and give them yet more home and heavy <hi>perſonall
+ſtrokes</hi> of <hi>Gods</hi> juſt wrath and <hi>revenging hand,</hi> not onely <hi>againſt
+them,</hi>
+               <note place="margin">2. Gods hand upon Malig<g ref="char:EOLhyphen"/>nants perſons.</note> but <hi>upon them,</hi> even, immediately on the very act of their
+moſt impious and blaſphemous words and wicked miſcarriages to
+and againſt the ſaints and ſervants of the Lord, making good his
+owne everlaſting and unperiſhing Word by the Prophet (marke it,<note place="margin">Eſay 26. 11.</note>
+I beſeech you, O all yee moſt deſperately minded and wilfully
+blinded <hi>Malignants,</hi> as a word of rouſing errour unto you)
+<hi>Lord, when thy hand is lifted up againſt them, they will not ſee; but
+they ſhall ſee and be aſhamed for their envy at thy people;</hi>
+               <note place="margin">A momento for Malignants</note> 
+               <hi>yea, the fire
+(of rage) of thine enemies ſhall divour themſelves.</hi>
+            </p>
+            <div type="examples">
+               <pb n="10" facs="tcp:112665:9"/>
+               <head>Examples.</head>
+               <p>The firſt fearfull example (then) of <hi>Gods</hi> moſt juſt <hi>vindicative
+hand</hi> and avenging indignation, even moſt evidently falling heavy
+by a ſore and heart-piercing <hi>perſonall blow</hi> upon the outragious
+maligners, and graceleſſe and godleſſe inveterate haters of the wayes
+of Piety, and truly and thorowly intended <hi>Reformation of Religi<g ref="char:EOLhyphen"/>on</hi>
+ſhall be this:</p>
+               <p>One <hi>Charles Roſe</hi> (a Roſe of a very unſavory ſent) an Appren<g ref="char:EOLhyphen"/>tice
+to one Maſter <hi>Charnell</hi> a Carver of VVood,<note place="margin">Gods hand up<g ref="char:EOLhyphen"/>on a moſt de<g ref="char:EOLhyphen"/>ſperate malig<g ref="char:EOLhyphen"/>nant Appren<g ref="char:EOLhyphen"/>tice of London as a juſt caveat to all malig<g ref="char:EOLhyphen"/>nant London Apprentices.</note> at the upper end of
+<hi>Fanchurch-ſtreet</hi> neere <hi>Algate</hi> in <hi>London,</hi> who put himſelfe into the
+Parliaments ſervice a little after <hi>Bartholomew tide</hi> 1642. pretending
+to be willing to ſide with the <hi>Parliament</hi> againſt the <hi>common enemy,</hi>
+but ſecretly intended and reſolved when he ſhould finde a faire op<g ref="char:EOLhyphen"/>portunity
+(as he told his fellow-ſervant) to joyne with the <hi>King</hi>
+and his Army againſt the <hi>Parliament:</hi> And when he was to goe
+forth, declared further (in the hearing of his Miſtreſſe) <hi>That he
+was now going to helpe to make halters to hang the Round-heads.</hi> And
+it was obſerved by his Maſter, in his former carriage, That he was
+of a refractory, yet diſſembling ſpirit; and thus he marching forth
+with a baſe treacherous heart to the <hi>cauſe of God</hi> and the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+was ſuddenly ſtricken by the juſt hand of God on the way,
+ſometimes ill and ſometimes well, and being at laſt in his march
+as farre as into Buckinghamſhire in the way to <hi>Alisbury,</hi> he was
+ſuddenly and fearfully ſtricken mad and utterly diſtracted &amp; bereft
+of his ſenſes. Now three of my very loving and religious friends
+travelling into thoſe parts, found this wretched young man in the
+high way as they rode, and ſaw him one of the ſaddeſt ſpectacles
+that ever they beheld, for he was ſtarke naked, onely a courſe old
+ſackcloth throwne over his ſhoulder, neither Hat on his head,
+nor Shoes on his feet, his eyes very red with weeping, and ſtand<g ref="char:EOLhyphen"/>ing
+and ſtaring as one affrighted; ſo theſe my friends came to him,
+asked him whither he was going, and whence he came, but hee
+would give them no anſwer, nor take any reliefe in money (which
+they proffered him) but fell downe and cryed out, <hi>Oh my Soule, my
+Soule;</hi> whereupon they all three ſtayed ſtill, alighted from their
+horſes, and with much adoe, at laſt got him to the next Towne,
+and by the way he was heard to ſay, <hi>Blood, Blood.</hi> It pleaſed God
+to direct theſe my friends to an Inne in the Towne, where the
+Hoſteſſe of the houſe, on knowledge of his name, knew his fa<g ref="char:EOLhyphen"/>ther;
+<pb n="11" facs="tcp:112665:9"/>
+where theſe my good friends tooke ſome care to have him
+lookt unto, and ſome of the Towne tooke care after their depar<g ref="char:EOLhyphen"/>ture
+to have him conveyed to his Father, who lived ſome 16. or 18.
+miles from that place about <hi>Oxford.</hi> When his Father ſaw him,
+he churliſhly refuſed to give him any entertainment (which, I con<g ref="char:EOLhyphen"/>feſſe,
+was inhumanely and unnaturally done) yet herein obſerve
+the righteous hand of God too, who as he hath promiſed, that
+<hi>when a mans wayes pleaſe him,</hi>
+                  <note place="margin">Prov. 16. 7.</note> 
+                  <hi>he will make even his enemies to be at
+peace with him;</hi> So likewiſe (by the juſt law of contraries) when
+our wayes, wits, and parts are <hi>againſt God</hi> and <hi>goodneſſe,</hi> he will make
+even our beſt friends to be at enmity with us. For, as here, his fa<g ref="char:EOLhyphen"/>ther,
+I ſay, utterly rejected him, and ſuddenly diſpatched him to
+<hi>London</hi> to his Maſter, where he lived a while after pitifully diſtra<g ref="char:EOLhyphen"/>cted,
+and never recovered his ſenſes againe; but about three houres
+before his death, he ſeemed to have ſome reaſonable apprehenſion
+of things, and to be ſomewhat ſenſible, and juſt then was heard to
+cry out bitterly, <hi>He was a dogge, he was a damned wretch,</hi> and thus
+miſerably died. And the truth of all theſe paſſages, ſince my three
+honeſt and religious friends left him, they had from his Maſter
+and Miſtreſſe, upon their farther enquiry after him. O that this
+ſad and fearfull example of this ſo ſure and ſevere <hi>hand of God up<g ref="char:EOLhyphen"/>on
+this malignant young man,</hi> might be as terrible to our <hi>London
+malignant Apprentices,</hi> yea, and their <hi>malignant Maſters</hi> too, as
+that affrighting <hi>hand-writing</hi> on the wall was to that wicked <hi>Bel<g ref="char:EOLhyphen"/>ſhazar,</hi>
+to make them tremble and quake, and to make them heare
+and feare, and doe no more ſo wickedly.</p>
+               <p>In the time of the ſiege of <hi>Hull</hi> in <hi>Yorkeſhire,</hi> in the yeere of the
+Lord 1641.<note place="margin">2. A Maſter Gun<g ref="char:EOLhyphen"/>ner, at the ſiege of <hi>Hull</hi> ſmitten dead upon his fearfull curſ<g ref="char:EOLhyphen"/>ing and ſhoot<g ref="char:EOLhyphen"/>ing off of a Piece of Ord<g ref="char:EOLhyphen"/>nance.</note> among many other very memorable and remarkeable
+paſſages in that famous ſiege this was one, which I have by moſt
+credible and indubitable information from thence, That the Kings
+Cormorants having ſtraitly begirt that ſtrong Town by land and
+by water alſo, and they having planted three pieces of Ordnance at
+a point of the river called <hi>Haſſell,</hi> to hinder any paſſage of Barkes
+and Veſſels from comming into <hi>Hull,</hi> and a Keele comming laden
+in the River toward the Towne, the Maſter Gunner ſhot at her, and
+miſt her, whereupon being (it ſeems) inraged, he ſwore, <hi>God damne
+him, if he did not ſinke her at the next ſhot:</hi> And preſently charging
+a Piece as he thought fit, and furiouſly diſcharging it, the Piece
+brake in pieces, and inſtantly killed the Maſter Gunner himſelfe,
+<pb n="12" facs="tcp:112665:10"/>
+and ſome two or three others that ſtood neere unto him; but the
+Barke or Veſſell paſſed ſafely into <hi>Hull,</hi> without any prejudice or
+hurt. A moſt fearefull example to terrifie (I ſhould thinke, if it
+might be) ſuch execrable curſing and ſwearing <hi>Malignants.</hi> The
+truth whereof was (I ſay) confirmed by moſt credible teſtimony
+from <hi>Hull,</hi> immediately after this accident <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out.</p>
+               <p>In the yeere alſo 1642. ſome of Prince <hi>Ruperts</hi> Forces facing and
+aſſaulting <hi>Windſor-Caſtle,</hi>
+                  <note place="margin">3. A Captaine in Prince <hi>Ruperts</hi> Army at <hi>Eaton</hi> neer <hi>Windſore</hi> fearfully ſlaine as he was fu<g ref="char:EOLhyphen"/>riouſly curſing</note> and making many ſhots at it, but ſtill
+miſſing what they aimed at, it being a little aime, and ſo not eaſily
+hit, a Captaine amongſt them (but his name my honeſt Intelligen<g ref="char:EOLhyphen"/>cer
+knew not) from <hi>Eaton,</hi> where they had made their <hi>Station,</hi>
+cryed out to the Gunner, who was going to fire a Drake againſt
+the Caſtle, <hi>Give me thy Gun-ſtocke, for, God damne me (ſayes this
+wretch alſo) I will ſlay ſome of thoſe Round-head Dogs;</hi> and while
+the <hi>Oath</hi> or <hi>cauſleſſe Curſe</hi> was yet warme in his mouth, ere hee
+could fire the Piece, a ſhot from the Caſtle daſht him in the face,
+brake his teeth into his throat, of the paine and ſmart whereof he
+lay lingring in much miſery for two or three dayes, and then died
+in a miſerable and wretched condition. This relation I had from
+a very honeſt Gentleman (then a Souldier and Officer in <hi>Windſore-Caſtle</hi>)
+and my very good friend and acquaintance, whoſe teſti<g ref="char:EOLhyphen"/>mony
+I know to be without exception.</p>
+               <p>About Aprill 23. 1643. being the Lords Day, one Maſter <hi>Mor<g ref="char:EOLhyphen"/>ton,</hi>
+Vicar of <hi>Sheriff-Hales,</hi>
+                  <note place="margin">4. A malignant Miniſter in the midſt of his Sermon in<g ref="char:EOLhyphen"/>veighing a<g ref="char:EOLhyphen"/>gainſt Round-Heads, ſudden<g ref="char:EOLhyphen"/>ly and fearfully ſmitten dumb.</note> preaching upon a portion of Scripture
+out of the 120. Pſalme, tooke occaſion thence in his Sermon to
+vent bitter imprecations againſt <hi>Round-heads</hi> (that is, Gods faith<g ref="char:EOLhyphen"/>full
+ſervants, and the <hi>Kings</hi> and <hi>Parliaments</hi> loyall and faſteſt
+friends) charging them with Faction, Rebellion, and ſuch like
+opprobrious ſcandals, adding withall, in expreſſe termes, That
+the <hi>Powder-plot,</hi> and other Treaſons that have beene practiſed by
+<hi>Papiſts,</hi> were nothing to this late <hi>Round-new-invention</hi> of the
+<hi>Round-heads.</hi> At which words (having ſtood hardly halfe his
+time) he moſt ſtrangely on a ſudden gaſped and gaped as he ſtood
+in the Pulpit, and ſtared in the Auditors faces, but could not ſpeak
+a word more for a good ſpace after, the people all that while, be<g ref="char:EOLhyphen"/>ing
+amazed at this ſo ſudden and moſt ſtrange a dumbe-ſhew in
+him. At length he ſtooping downe, as it were to take up ſome
+what at his feet, re-erected himſelfe, and then ſaid, Let us give
+thankes for what we have heard, which he accordingly did, in a
+<pb n="13" facs="tcp:112665:10"/>
+ſumbling and hardly intelligible manner<g ref="char:punc">▪</g> and ſoone made an end,
+and ſo went home; but what became of him ſince I have not
+heard.</p>
+               <p>Alſo in the pariſh of <hi>Hollowell</hi> in <hi>Oxford,</hi> one of the inhabitants
+of the ſaid pariſh being a moſt licentious and prophane fellow, ſet up
+a May-pole in the Summer-time, 1641. and that it might tranſcend
+the vanities and impieties of other May-poles,<note place="margin">5. Gods judge<g ref="char:EOLhyphen"/>ment on a wic<g ref="char:EOLhyphen"/>ked fellow at Oxford in ſet<g ref="char:EOLhyphen"/>ting up a May<g ref="char:EOLhyphen"/>pole with a Roundhead on it, and ſhooting at it.</note> ſet upon this the
+picture of a man in a Tub, thereby (as he ſaid) to deſcribe a <hi>Round-head;</hi>
+which picture, as it was credibly reported, he made in deriſion
+of a godly Gentleman, a Munciple of one of the Colledges in <hi>Ox<g ref="char:EOLhyphen"/>ford;</hi>
+and the reaſon why it muſt repreſent this Gentleman, was,
+becauſe he was truely religious and uſed repetition of Sermons,
+ſinging of Pſalmes, and other holy duties in his houſe. This pi<g ref="char:EOLhyphen"/>cture
+being thus ſet up on the May-pole, the ſaid prophane fellow
+the authour of it, with his looſe and licentious companions, ma<g ref="char:EOLhyphen"/>king
+themſelves mad-merry about it, at laſt muſt needs goe ſhoot
+at the <hi>Round-head</hi> upon it, and having for this purpoſe brought
+Muskets with them and other pieces, one of them, being the ſervant
+of the <hi>chiefe maſter</hi> of this wicked <hi>May-game,</hi> ſhot and did hit the
+Picture; at which the ſaid Maſter fell a laughing extreamly, and on
+a ſudden ſunke downe, falling into a ſharpe and terrible convulſion
+fit, and ſo continued a long time after very ſicke, and in great paine
+and miſery; but whether he be ſince alive or dead, I am uncertaine.
+This relation I had confirmed to me by an honeſt young Gentle<g ref="char:EOLhyphen"/>man
+a Scholler of <hi>Oxford,</hi> then reſident in <hi>Oxford,</hi> and an eye-wit<g ref="char:EOLhyphen"/>neſſe
+of moſt of it, beſides other credible information.</p>
+               <p>In the ſame City of <hi>Oxford</hi> alſo, a company of prophane fellows
+and deepe drinkers met together in a Taverne, and being (<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the
+cuſtome is) mad-merry,<note place="margin">6. Gods hand up<g ref="char:EOLhyphen"/>on one drink<g ref="char:EOLhyphen"/>ing healths to the confuſion of the Round-heads in a Taverne.</note> in the midſt of their cups would needs goe
+drinke a health to the confesſion of Round heads, which having ac<g ref="char:EOLhyphen"/>cordingly
+gone round, one among the reſt not content therewith
+(being, it ſhould ſeem, too ſoundly whitled with his carouſed cups)
+would needs for joy (forſooth) of this health thus drunke, riſe up
+and dance, and cut a caper, uſing theſe or ſuch like words, <hi>Come</hi>
+(ſaies he) <hi>I will now cut a caper to the confuſion of Round-heads;</hi>
+but he beginning to dance and cut his caper, his head it ſeemes,
+being too light to rule his heeles, ſuddenly fell downe and broke
+his legge, whereof (being carried home) he lay in great paine and
+miſery, and not long after died thereof; this alſo confirmed by cre<g ref="char:EOLhyphen"/>dible
+<pb n="14" facs="tcp:112665:11"/>
+teſtimony, In the time of the ſiege of <hi>Redding</hi> by the right
+honourable the Earle of <hi>Eſſex</hi> the <hi>Parliaments</hi> moſt renowned <hi>Lord
+Generall,</hi> there hapned (as is well knowne) a moſt notable and
+remarkable skirmiſh between ſome of our Parliaments forces, and
+the Kings Cormorants from <hi>Oxford,</hi> at a place called <hi>Canſam<g ref="char:EOLhyphen"/>bridge,</hi>
+In which fight moſt valiantly and victoriouſly (by Gods
+admirable aſſiſtance) performed by ours, there fell out a moſt me<g ref="char:EOLhyphen"/>morable
+and ſtrange paſſage, moſt pertinent to this our preſent pur<g ref="char:EOLhyphen"/>poſe
+and worthy our moſt ſad and ſerious commemoration, namely,
+that among the many ſlaine and dead bodies on the Kings ſide,<note place="margin">7. Gods moſt re<g ref="char:EOLhyphen"/>markable hand upon Serjeant-major generall <hi>Smith,</hi> ſlaine in the fight at <hi>Cau<g ref="char:EOLhyphen"/>ſam</hi> bridge, at the ſiege of <hi>Red<g ref="char:EOLhyphen"/>ding.</hi>
+                  </note>
+(very many of them being prime Commanders and Officers in
+Armes, as was clearely diſcerned by their brave cloathes, pure
+fine <hi>Holland</hi>-ſhirts and faire skins, being ſtript naked at the end of
+the fight) there was found the body of <hi>Serjeant-major Smith</hi> Ge<g ref="char:EOLhyphen"/>nerall
+of the Kings Army, a moſt wicked and deſperate Cormo<g ref="char:EOLhyphen"/>rant,
+who being a very fat and corpulent fellow, was found with
+his belly ript up, and his Greace taken away out of his body;
+which very thing (as I had it by moſt credible and that not ſingle
+information) this wicked <hi>Smith</hi> had (about a twelve-moneth be<g ref="char:EOLhyphen"/>fore,
+or not ſo much) threatned to act upon the <hi>Round-heads</hi> at
+<hi>Okenham,</hi> where ſome of the Kings forces were then quartered, but
+driven out by the <hi>Parliaments</hi> forces; where, and at which time of
+his enforced departure thence he was heard in a furious threatning
+manner to ſay, <hi>Well, farewell Round-heads for this time, but I will
+returne againe amongſt you, and then I will rip up your fat panches,
+and make medicines of your Greace,</hi> or words to this effect. A moſt
+remarkable patterne of the Lords juſtice on him, in ſo punctually
+repaying him (<hi>Adonibezech-like</hi>) in his owne coyne. And in the
+ſtripping of him (as was credibly reported) they found a Crucifix
+about him and other markes of the <hi>Romiſh beaſt,</hi> a fit Champion
+(among the reſt) to fight for the maintenance of the <hi>Proteſtant</hi>
+Religion.<note place="margin">8. Gods wrath<g ref="char:EOLhyphen"/>full hand on divers young Gentlemen in a Tavern, abu<g ref="char:EOLhyphen"/>ſing the City Trainedbands, as they march<g ref="char:EOLhyphen"/>ed on in the ſtreet.</note>
+               </p>
+               <p>In the yeere alſo, 1642. there hapned another very fearefull
+example of <hi>Gods revengefull hand</hi> upon theſe moſt ungodly and
+graceleſſe <hi>abuſers</hi> and <hi>tongue-perſecutors</hi> of Gods people, which
+was thus; Divers royſtering and ſwaggering yong Gallants, being
+drinking in the <hi>Miter-Taverne</hi> in <hi>Fleet-ſtreet London,</hi> it ſo fell
+out, that in the time of their ſwaggering, ſwearing, and carowſing
+in the ſaid Taverne, the <hi>Trained-bands</hi> of the City paſſing by, one
+<pb n="15" facs="tcp:112665:11"/>
+of theſe roaring gallants caſt out ſomething moſt unſeemely out of
+the Chamber-window among the ſaid ſouldiers, uſing alſo ſome
+very abuſive language againſt them; whereupon, one of them ha<g ref="char:EOLhyphen"/>ving
+more Gentility and ingenuity of ſpirit than the reſt, reproved
+them that did it; whereupon they furiouſly asked him if he were a
+<hi>Round-head,</hi> and preſently drew their Swords one upon an other,
+and this Gentleman being ſuddenly made at by one of them, puts
+by his thruſt, got within him, and ſtab'd him with a Stilletto; the
+other two alſo comming on him, he likewiſe wounded them both;
+of which three wounded, two of them immediately died, and the
+recovery of the third was very queſtionable and dangerous; Which
+done, this Gentleman made a way downe the ſtaires with his Sword
+in one hand, and the Stillet to in the other, and running downe
+<hi>Ram-alley</hi> got to the water and ſo eſcaped away. This I had from
+unqueſtionable information, the very morning it was done, I my
+ſelfe going into <hi>Fleet-ſtreet</hi> betimes that morning on ſome buſi<g ref="char:EOLhyphen"/>neſſe
+of mine owne, where and when I heard it exactly and fully
+telated to me.</p>
+               <p>About the 20 of <hi>Iune</hi> alſo 1643, One M<hi rend="sup">rs</hi>
+                  <g ref="char:punc">▪</g> 
+                  <hi>Haughton</hi> wife to Mr.
+<hi>Wil.</hi>
+                  <note place="margin">9. A monſtrous and prodigious child borne in Lancaſhire of moſt malig<g ref="char:EOLhyphen"/>nant parents, and the moſt fearfull and remarkable circumſtances in and about it, to the terrour of malignants.</note> 
+                  <hi>Haughton</hi> of <hi>Prickmarſh</hi> within the pariſh of <hi>Kirkham</hi> in <hi>Ley<g ref="char:EOLhyphen"/>field</hi>
+in <hi>Lancaſhire,</hi> was delivered of a child ſtill-borne, which had
+no head, yet two eares, two eyes, and a mouth in the breſt of it, and
+the hands turning backwards to the elbowes, with a cleft down the
+backe; ſo as it was not diſcernable whether it were male or female.
+After this child had beene buried two or three daies, the Midwife
+teporting its monſtrous and prodigious ſhape &amp; not being credited,
+it was thereupon taken out of the grave and reviewed, and was appa<g ref="char:EOLhyphen"/>rently
+found to be as is already deſcribed, &amp; as was reported to be;
+only a bundle of clouts was taken up with it, which (it ſeems, &amp; was
+known) the parents had (in proportion of a head) cauſed to be fitted
+unto it. Now that which is very remarkable herein is this<g ref="char:punc">▪</g> That the
+parents of this monſter were (even as their owne parents alſo and
+predeceſſours were) notorious profeſt<g ref="char:punc">▪</g> 
+                  <hi>Papiſts,</hi> impudently abuſive
+towards <hi>Proteſtants,</hi> curſing and calling them familiarly by the
+name of <hi>Round-heads;</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that which is yet more memorable
+herein, and moſt remarkably worthy our ſerious conſideration,
+and moſt clearely demonſtrates that foreſaid prodigious birth to
+be <hi>a direct judgement of the Lord</hi> for deſperate <hi>malignancy</hi> againſt the
+Lords choice ones, is this, that the <hi>Grandmother</hi> of that <hi>monſter</hi>
+                  <pb n="16" facs="tcp:112665:12"/>
+was ſhe (whom pious Mr <hi>Prynne</hi> (to her indeleble and perpetuall
+infamy) hath already ſet forth in print<g ref="char:punc">▪</g> in his famous Hiſtory of
+that pair-royall of heroicke ſufferers, Dr. <hi>Baſtwicke<g ref="char:punc">▪</g>
+                  </hi> Mr. <hi>Burton,</hi>
+and Mr. <hi>Prynne,</hi>) who out of an inveterate malignity againſt, and
+in divelliſh derifion of thoſe three foreſaid Worthies, called three
+Cats (which ſhe had at that time) by the names of thoſe three preci<g ref="char:EOLhyphen"/>ous
+Chriſtians, and cut off the eares of thoſe her three Cats, both in
+deſperate diſdaine (as it ſhould ſeem) of their glorious ſufferings; and
+thereby alſo (in ſeeming jollity) to act again that more than <hi>Turkiſh</hi>
+Tragedy. And was not here a moſt notable and cleare evidence of
+Gods undoubted indignation againſt ſuch intolerably impious and
+impudent malignants as theſe, the Lord thus manifeſting that
+ſooner or later he will meet with their inſolent and moſt audaci<g ref="char:EOLhyphen"/>ous
+impieties?</p>
+               <p>In <hi>November</hi> alſo, 1643. a malignant Souldier (being intended
+for ſervice of the <hi>Parliament</hi>) was hanged at <hi>Cambridge</hi> for running
+from his Colours, which came thus to paſſe: He with others alſo
+in the ſame condemnation being apprehended for the cauſe afore<g ref="char:EOLhyphen"/>ſaid
+and by <hi>Martiall-law</hi> to caſt Dice for their lives;<note place="margin">10. A malignant Souldier hang<g ref="char:EOLhyphen"/>ed at Cam<g ref="char:EOLhyphen"/>bridge for run<g ref="char:EOLhyphen"/>ning from his Colours.</note> this fellow
+comming to the Dice, when he threw them out, cryed at the caſt,
+<hi>Now, for God and the King, and God receive my ſoule.</hi> Whereupon
+it ſo fell out that he caſting the leaſt chance of the Dice, muſt ſuffer
+death, and ſo was accordingly executed at the ſame time<g ref="char:punc">▪</g> Now
+that which was very remarkable in Gods hand thus on this fellow
+(beſides the voluntary diſcovery of his <hi>Cavalierian-heart<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in thoſe
+words, <hi>Now for God and the King,</hi> which is the <hi>Cavallers</hi> common
+<hi>ſignall word</hi>) was this, that when he was firſt preſt for a Souldier
+he was heard often to ſay, <hi>He would be hang'd before he would fight
+for the Parliament.</hi> Even juſt like Sir <hi>Iervaſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wales,</hi> once Lieu<g ref="char:EOLhyphen"/>tenant
+of the Tower of <hi>London</hi> in King <hi>Iames</hi> his daies, who was
+hanged on <hi>T<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er-hill,</hi> for being acceſſary to the poyſoning of Sir
+<hi>Thomas Overbury,</hi> then his priſoner in the <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ower,</hi> about the Earle
+of <hi>Somerſets</hi> buſineſſe. Which Sir <hi>Jervaſe</hi> himſelfe, being on the
+Ladder at the Gallowes freely confeſt; That in his life time he had
+oft (in his playing at Cards and Dice <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that he might be hang'd
+if it were not ſo and ſo;</hi> and therefore ingenuouſly confeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d Gods
+hand upon him for that ſinne. And ſo ſay I now here, See O thou
+unflexible and flinty-hearted malignant, how the Lord moſt juſtly
+met with this <hi>malignant spirited Souldier,</hi> paying him moſt palpably
+<pb n="17" facs="tcp:112665:12"/>
+in his owne Coyne; as this moſt notable and perſonall example
+hath moſt clearly declared. This I received out of a Letter ſent by
+a religious young Gentleman, a Scholler of <hi>Cambridge,</hi> to his fa<g ref="char:EOLhyphen"/>ther,
+a very reverend Miniſter of the City of <hi>London,</hi> who gave me
+a tranſcript of it, and whoſe teſtimony is, I know, without all
+exception.</p>
+               <p>In <hi>Cree-church</hi> pariſh alſo, by <hi>Algate</hi> in <hi>London,</hi> one <hi>James At<g ref="char:EOLhyphen"/>kinſons</hi>
+wife, who with her ſaid husband, were both of them com<g ref="char:EOLhyphen"/>monly
+noted to be moſt <hi>malignant enemies</hi> of the power and purity
+of the Goſpell,<note place="margin">11. Gods hand moſt fearefully upon one Mrs. <hi>Atkinſon</hi> in Cree-church pariſh in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                  </note> and mockers of goodneſſe and good men; which
+her ungodly and ill diſpoſition ſhe manifeſted in the Church of
+the ſaid pariſh, at a Sermon preached there by reverend and reli<g ref="char:EOLhyphen"/>gions
+Mr. <hi>Wells</hi> of <hi>New-England,</hi> who in his Sermon, deſired his
+auditors that they would not ſleepe; &amp; ſhe being aſleep at that time,
+and awakened by one Mrs. <hi>Clarke</hi> her neighbour, a godly Gentle<g ref="char:EOLhyphen"/>woman
+of the ſame pariſh, and that in a very loving and neigh<g ref="char:EOLhyphen"/>bourly
+way, by jogging of her knee as they ſate together in the
+Pew; But ſhe preſently upon her awakening fell into ſtrange ex<g ref="char:EOLhyphen"/>preſſions
+of rage and fury, and inſtantly belched out theſe wicked
+words, <hi>O you bold drunken flut, doe you kick me?</hi> with divers other
+ſuch uncivill ſpeeches. All which the ſaid Mrs. <hi>Clarke</hi> very piouſ<g ref="char:EOLhyphen"/>ly
+and diſcreetly (for the preſent) put up in modeſt and grave ſi<g ref="char:EOLhyphen"/>lence,
+and onely acquainted her husband, a very religious Gentle<g ref="char:EOLhyphen"/>man,
+with Mrs. <hi>Atkinſons</hi> ſaid uſage of her in the forenoone, and
+therewith expreſſed her unwillingneſſe to fit againe with her in the
+Few. Whereupon Mr. <hi>Clarke</hi> unwilling there ſhould be any fur<g ref="char:EOLhyphen"/>ther
+difference between them, at leaſt to continue with any private
+heart-burning againſt each other, repaired to the Miniſter of the
+ſaid Church, and deſired that he with the Church wardens and
+ſome of the ancienteſt of the Pariſh would after the afternoones
+Sermon ſend for Mr. <hi>Atkinſon</hi> to ſee whether he would abet or
+countenance his wife in this her ill carriage. According to the ſaid
+deſire he was ſent for, and came; where, after he had asked the cauſe
+of his being ſent for; and Mr. <hi>Clarke</hi> beginning to relate it, <hi>At<g ref="char:EOLhyphen"/>kinſon</hi>
+would not ſuffer him to goe on, but he alſo brake forth into
+foule words, and told him, <hi>He lied; for Mrs. Clarke, he ſaid, did
+kick his wife in the Church.</hi> Whereupon, the Lecturer of the ſaid
+Church Mr. <hi>Falkingham,</hi> deſired in love to take him off, intreating
+him that each of them might be heard, and ſo the buſineſſe would
+<pb n="18" facs="tcp:112665:13"/>
+be the better and ſooner reconciled. To whom <hi>Atkinſon</hi> replyed,
+<hi>Sir, I have nothing to doe with you; nor you with me.</hi> And to Captaine
+<hi>Cower,</hi> who reproved him for ſuch ill behaviour, he ſaid, <hi>You are a
+Bl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ckhead and a Roundhead;</hi> and thereupon went haſtily and fretfully
+out of the <hi>Veſtry,</hi> and fetcht his wife, who alſo came thither in a
+great heat, and (very probably) full of bitterneſſe; and ſome cre<g ref="char:EOLhyphen"/>dibly
+reported, that ſhe had boaſted, being at home, how ſhe had
+uſed Mrs. <hi>Clarke.</hi> But moſt certaine it is, that in the <hi>Veſtry,</hi> (being
+queſtioned of theſe things) <hi>ſhe wiſhed ſhe might never goe home alive,
+if Mrs. Clarke did not kick her, and ſaid, ſhe would have the Law on
+her for it.</hi> And both ſhe and her husband did utter many other
+bitter words, at, and before this moſt evident token of Gods diſ<g ref="char:EOLhyphen"/>pleaſure:
+for (as I before touched) it was well knowne that they
+both had been a long time much diſaffected to pure religion and
+were very ready oft-times, not onely to ſpeake evill of ordinary
+Chriſtians, but even of Gods owne Meſſengers; and now, I ſay, at
+this time, ſhe eſpecially ſuffering her tongue to wander beyond its
+bounds, it pleaſed the Lord that preſently after that fearefull im<g ref="char:EOLhyphen"/>precation
+upon her ſelfe, afore-mentioned, ſhe was ſtricken ſo ill,
+that ſhe began to falter in her ſpeech; inſomuch that thoſe preſent
+tooke notice of it, and thereupon ſhe was led forth of the <hi>Veſtry</hi> into
+the Church-yard and ſet downe upon a bench there, where ſhe had
+meanes uſed for her recovery; but ſhe in a very ſhort time there
+died, and was carried home dead: And which is yet more remark<g ref="char:EOLhyphen"/>ably
+fearefull, it was credibly affirmed that a little before her
+death (in her forementioned weakeneſſe, one of the women about
+her had ſaid unto her, that certainely Mrs. <hi>Clarke</hi> would not abuſe
+her; but ſhe inſtantly curſed her, ſaying, <hi>A pox on you, you are one of
+the holy ſiſters;</hi> and that it was obſerved by ſome at the time of her
+death, that her tongue turned blacke in her head. A moſt terrible
+and dreadfull example of Gods wrath and indignation, both to her
+moſt <hi>malignant husband,</hi> and all <hi>ſuch</hi> irreligious <hi>spirits,</hi> as either in
+themſelves, wives, or friends mannage and countenance ſuch un<g ref="char:EOLhyphen"/>chriſtianlike
+waies and wicked courſes. All this I have by moſt
+unqueſtionable information both from Mr. <hi>Clarke</hi> himſelfe, and
+from others who moſt exactly knew the truth of theſe things.</p>
+               <p>Upon <hi>Tueſday</hi> alſo <hi>Novemb.</hi> 23. 1642. about 11 of the clocke
+at night, the monethly Faſt-day being the very next day after it,
+one Captaine <hi>Bard</hi> of Sir <hi>Francis Wortleys</hi> Regiment, with about
+<pb n="19" facs="tcp:112665:13"/>
+thirty Horſe came from <hi>Ludlow</hi> in the County of <hi>Salop,</hi> of purpoſe
+to plunder the houſe of one Mr. <hi>Iohn Green</hi> a reverend, godly, and
+learned Divine (and one of the Aſſembly of Divines at <hi>Weſtmin<g ref="char:EOLhyphen"/>ster</hi>)
+Paſtor of <hi>Pencombe</hi> in the County of <hi>Hereford,</hi>
+                  <note place="margin">12. Gods hand moſt remark<g ref="char:EOLhyphen"/>ably upon a Cornet of a Troop of horſe comming to plunder a very godly Mini<g ref="char:EOLhyphen"/>ſters houſe.</note> being eleven
+miles diſtant from the ſaid <hi>Ludlow.</hi> Who being accordingly come
+to the ſaid Miniſters houſe, whiles ſome of the Souldiers were
+breaking open the doore of his dwelling houſe, one <hi>Ogle</hi> a <hi>Northern
+man</hi> and a <hi>Cornet</hi> of the ſaid Troope of Horſe was the firſt that
+brake open the ſtable doore; and as ſoone as ever the ſaid <hi>Ogle</hi> was
+ſtepping over the threſhold to goe into the ſtable firſt, as the Mini<g ref="char:EOLhyphen"/>ſters
+ſervants who lay in a chamber adjoyning to the ſtable repor<g ref="char:EOLhyphen"/>ted,
+and teſtified) he fell downe as dead into the ſtable, and in the
+morning his Hat and a ſmall Piece were found in the ſtable behind
+a ſtone-horſe (which ſtood in a ſtall next the ſtable<g ref="char:punc">▪</g> doore, which
+was made up ſo firme with plankes and barres both behind and on
+each ſide of him, that he could not poſſibly ſtrike him) and ſo
+ſome of the other Souldiers brought him into the ſaid Miniſters
+houſe as a dead man, the Captaine ſaying, that he fainted for want
+of meat, and ſo deſired that ſome comfortable refreſhing might
+be given him. Then they placed him in a Chaire, and ſo having
+plundered what they thought fit from the godly Miniſter, they
+left the Cornet there and returned to <hi>Ludlow.</hi> About ſome 2 houres
+after he began to revive, and a little to come to his ſpeech, and the
+firſt words he uttered (after an imperfect manner, were, <hi>Holy mo<g ref="char:EOLhyphen"/>ther
+of God helpe me;</hi> and by his often croſſing of himſelfe, and by
+the teſtimony of others there that knew him, he was diſcovered to
+be a profeſt <hi>Papiſt.</hi> Thus he continued a ſenceleſſe man<g ref="char:punc">▪</g> his head,
+hands, and joynts of his body, ſeeming quite looſe, he ſpake very
+little and ſeldome and imperfectly, did eate whatever was given
+him, and would plucke raw meat from the ſpit newly laid to the
+fire and offer to eate it; and as he ſate in his chaire, if he offered to
+leane forward, he would fall into the fire; if he leaned backward,
+he would fall downe backward; and one night he was found under
+his bed wrapt up in one of the ſheets onely in his ſhirt. The wo<g ref="char:EOLhyphen"/>men
+that attended and watched with him, upon a diligent ſearch
+of his body, could not diſcerne or perceive any bruiſe or ſo much as
+diſcolouring of his skinne in any part of his body; whereby they
+all could not but clearely conceive and believe it to be the imme<g ref="char:EOLhyphen"/>diate
+hand of God upon him; and at that time ſome of his owne
+<pb n="20" facs="tcp:112665:14"/>
+Companions were heard to ſay, (as was credibly informed) <hi>Let us
+be gone hence, for God fights againſt us.</hi> This ſaid <hi>Cornet</hi> being ſent
+for to <hi>Ludlow</hi> upon the Saturday following the Souldiers at his
+firſt comming ſeeing him in that ſenceleſſe condition, ſaid, <hi>Sure he
+was drunke;</hi> but he ſtill continued after the very ſame manner as was
+forementioned, without ſence or underſtanding, and a little time
+after (as the Captaine himſelfe reported) died in that ſenceleſneſſe.
+All this being teſtified for moſt true, both by the ſaid reverend Mi<g ref="char:EOLhyphen"/>niſter
+Mr. <hi>Greene</hi> himſelfe, by his ſervants, and divers others who
+were eye-witneſſes of all theſe premiſes.</p>
+               <p>About the midſt of <hi>Ianuary</hi> alſo,<note place="margin">13. Gods imme<g ref="char:EOLhyphen"/>diate and re<g ref="char:EOLhyphen"/>markable hand upon one <hi>Lau<g ref="char:EOLhyphen"/>rence Hyde,</hi> a deſperate ma<g ref="char:EOLhyphen"/>lignant againſt the Parliament</note> 1643. there fell out a moſt me<g ref="char:EOLhyphen"/>morable
+and fearefull example of Gods immediate puniſhing hand
+(neere unto the City of <hi>Salisbury</hi>) upon a moſt peſtilent and deſ<g ref="char:EOLhyphen"/>perate
+<hi>malignant</hi> and perſecuter of Gods people in thoſe parts;
+namely, one <hi>Laurence Hyde</hi> a Commiſſioner of enquiry after all
+ſuch as had either given or lent any thing for the <hi>Parliaments</hi>
+ſervice; who the very ſame day that <hi>Heath, Bankes, Foſter,</hi> and
+<hi>Glanvill,</hi> thoſe wicked <hi>Oxonian</hi> Earthwormes, Judges, and Law<g ref="char:EOLhyphen"/>yers
+of illegalities, came into the City of <hi>Salisbury,</hi> to keepe the
+Aſſizes there) having threatned moſt vigorouſly to proſecute all
+the <hi>Roundheads</hi> in thoſe parts at the ſaid Aſſizes; and thus riding
+with his Commiſſion (as <hi>Saul</hi> to <hi>Damaſcus,</hi> though not with
+ſuch a bleſſed blow to beat him off from his horſe to holy repen<g ref="char:EOLhyphen"/>tance)
+as he was haſtily riding on, within a mile of the ſaid City
+he ſuddenly fell from his Horſe and ſo brake his necke or his
+ſhoulder-bone in the fall, that thereby he inſtantly died before
+he could be brought alive into the Towne. Being thus by Gods
+moſt evident and heavy hand upon him, cut ſhort and deprived
+of power to doe that miſchiefe to Gods honeſt and innocent
+hidden-ones, which (as 'twas well knowne) he had frequently
+before menaced againſt them. The truth of this I have confir<g ref="char:EOLhyphen"/>med
+unto me, not onely by the printed relation, (but as my cu<g ref="char:EOLhyphen"/>ſtome
+is in all ſuch like occaſions) upon diligent enquiry from
+ſuch honeſt and credible teſtimony,<note place="margin">14. Gods hand upon 3 malig<g ref="char:EOLhyphen"/>nant Citizens, being all three neighbours to<g ref="char:EOLhyphen"/>gether on Lud<g ref="char:EOLhyphen"/>gate-hill in <hi>London.</hi>
+                  </note> as I know to be without all
+exception.</p>
+               <p>There were alſo three neighbours dwelling on <hi>Ludgate-hill</hi> in
+<hi>London,</hi> two of them <hi>Hoſiers,</hi> dwelling directly one over againſt
+the other, the third a <hi>Wollen-Draper,</hi> who lived next doore to one
+of the <hi>Hoſiers,</hi> all three of them of one minde in <hi>malignancy,</hi> and
+<pb n="21" facs="tcp:112665:14"/>
+inveterate enemies to the <hi>Parliaments</hi> proceedings. One of theſe
+<hi>Hoſiers</hi> in the moneth of January 1642. did intimate unto the
+other <hi>Hoſier</hi> his deſire and purpoſe to goe to <hi>Oxford,</hi> which the
+other underſtanding, conſented and promiſed to goe along with
+him, and accordingly away they went, and what their worke
+and buſineſſe was there, though not certainly knowne, yet may be
+eaſily judged, no goodneſſe, to be ſure of it; but about a weeke af<g ref="char:EOLhyphen"/>ter,
+one of them having ſpent (as 'twas beleeved) all his ſpare pro<g ref="char:EOLhyphen"/>digall
+money, or done his wicked worke, returned backe againe
+to his houſe in <hi>London;</hi> the other ſtayed there longer behinde, and
+came not backe with him. Within a few dayes after the returne
+home of the ſaid <hi>Hoſier,</hi> he with his ſaid neighbour the malignant
+<hi>Woollen-Draper,</hi> went (as it was knowne to be their cuſtome) to
+the Taverne, called <hi>The Devill and Saint Dunſtones</hi> neere <hi>Temple-Barre,</hi>
+together with ſome others, <hi>ejuſdem farinae,</hi> of the ſame tem<g ref="char:EOLhyphen"/>per,
+or untempered mouldy-<hi>Malignancy,</hi> their buſineſſe there be<g ref="char:EOLhyphen"/>ing
+to be mad-merry, and to drinke healths to Prince <hi>Rupert</hi> that
+Prince of Plunderers, the Atheiſticall <hi>Marqueſſe of Newcaſtle,</hi>
+and ſuch others of that rotten-rout: Now it ſo fell out that one
+of their Companions proved more civill then the reſt, and ſhewed
+his diſlike of theſe their doings; whereupon the <hi>Hoſier</hi> began to
+quarrell with that man, and from their wrangling diſcourſe they
+both fell to fighting, and as the <hi>Hoſier</hi> was ſtrugling with the ſaid
+party, there comes a third man and violently pulled the <hi>Hoſier</hi> off,
+who inſtantly fell backward, and with the fall brake his legge,
+whereof he lay under cure a long time after. The <hi>Woollen-Draper,</hi>
+his foreſaid Aſſociate, being a prodigall Spend-thrift, and runne
+much in debt to his Creditors, they (on the very ſame day of this
+their drinking in the ſaid Taverne, and at the very ſame inſtant
+time of his drinking healths there) came with Serjeants and Of<g ref="char:EOLhyphen"/>ficers,
+ſeized on all his clothes and goods, whereof hee hearing,
+and knowing himſelfe thereby undone in his eſtate, inſtantly fled
+away, and was no more ſeene. The third partie of the foreſaid un<g ref="char:EOLhyphen"/>godly
+ſociety, to wit, the other <hi>Hoſier,</hi> (late ſervant to one <hi>Pate,</hi>
+a moſt deſperate Malignant alſo againſt God and the Parliament,
+and a notorious ſcoffer at godlineſſe and good men) who, I told
+you before, continued at <hi>Oxford,</hi> and came not home with his fel<g ref="char:EOLhyphen"/>low
+<hi>Hoſier,</hi> abiding ſtill, I ſay, behinde at <hi>Oxford,</hi> kept continu<g ref="char:EOLhyphen"/>all
+company with the <hi>Kings Cormorants</hi> there, drinking and ſwil<g ref="char:EOLhyphen"/>ling
+<pb n="22" facs="tcp:112665:15"/>
+day and night in their deboiſt company, and that in ſuch ex<g ref="char:EOLhyphen"/>ceſſive
+and immoderate meaſure, that he was not onely drunke, but
+fell mad among them; in ſo much that getting his horſe out of the
+Stable, he moſt deſperately rode up and downe the ſtreets there,
+till at laſt being eſpied by ſome Citizens of <hi>London</hi> that knew him,
+who perceived quickly in what condition he was, and being for
+<hi>London</hi> themſelves at that time, they brought him home with them,
+with no little adoe by the way; who being thus brought home,
+continued ſo diſtracted and beſotted in his ſenſes, that he neither
+regarded what any ſaid or did to him, and wholly neglected his
+calling, as being unfit to doe ought therein, and ſhortly after hee
+fell ſicke for a ſeaſon, and ſtill continued ſo diſtracted, that at laſt
+it was held fit to have him away to <hi>Bedlem;</hi> yet for ſome credit
+ſake, his friends ſo prevailed, that he was not put into the common
+condition of the Madmen there, but was kept private in the houſe
+of one that endeavours the cure of ſuch perſons, and there he was
+continued, but could not be cured of this his miſerable and di<g ref="char:EOLhyphen"/>ſtracted
+eſtate. And was not here a moſt evident and remarkable
+hand of God upon them all three, to the terrour (one would
+thinke) of all ſuch deſperate and incorrigible <hi>Malignants.</hi> All
+which relation I have received from ſuch honeſt and credible teſti<g ref="char:EOLhyphen"/>mony
+of the truth thereof, even of ſuch as knew the three par<g ref="char:EOLhyphen"/>ties
+very well, as is without all juſt exception therein.</p>
+               <p>And thus now, I have (as I ſuppoſe) ſufficienly made good my
+word, and performed my promiſe in the two former parts of this
+my <hi>Looking-glaſſe,</hi> namely, in moſt clearly repreſenting and ſet<g ref="char:EOLhyphen"/>ting
+forth to the eyes and underſtanding of every one, of any one
+that is <hi>compos mentis,</hi> and is not ſtarke mad with malice and miſ<g ref="char:EOLhyphen"/>chief,
+both <hi>Gods hand</hi> moſt eminently <hi>againſt our Anti-Parliament a<g ref="char:EOLhyphen"/>rians</hi>
+or <hi>Malignants, and alſo Gods evident heavy hand upon thoſe
+our Malignants perſons, even immediately in the very acting of their
+malignancy.</hi> Enough, one would thinke, to fright and terrifie
+them from ſuch impious and audacious flouting, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onting, and
+maligning of Gods honeſt and harmleſſe ſervants, were not their
+Conſciences cauterized with the hot iron of graceleſſe impenetra<g ref="char:EOLhyphen"/>ble
+obſtinacy, and their hearts more hardned (againſt pure and
+innocent <hi>Truth</hi> and <hi>Holineſſe</hi>) than the impenetrable Tortice
+ſhell, and they thereby even given over by God to a reprobate ſenſe,
+to their irrecoverable ruine and perdition.</p>
+               <p>
+                  <pb n="23" facs="tcp:112665:15"/>
+But now, to goe on to my <hi>Third</hi> promiſed <hi>part</hi> or <hi>repreſentation</hi>
+in this our <hi>Looking-glaſſe,</hi>
+                  <note place="margin">3. A Caveat for Cowards and Neutrall-De<g ref="char:EOLhyphen"/>ſerters of the Parliaments Cauſe.</note> namely, the <hi>Caveat for Cowards and faint<g ref="char:EOLhyphen"/>hearted
+Neutrall-Deſerters of the Parliaments cauſe;</hi> and therein, I
+ſay moſt clearly, <hi>Gods cauſe.</hi> As alſo hereby to ſpeake to all <hi>un<g ref="char:EOLhyphen"/>ſetled
+and unreſolved weake Chriſtians</hi> (whom in this caſe we muſt
+pitty, pardon, and pray for, as being our ſelves ſubject to like
+failings and errours, ſhould not grace prevent and ſupport us) to
+ſhew them the great danger and hard hazards they put themſelves
+on, both in ſoule and body too, in ſo unworthily fearing or refu<g ref="char:EOLhyphen"/>ſing
+to owne Gods Cauſe,<note place="margin">A briefe pre<g ref="char:EOLhyphen"/>miſed Pream<g ref="char:EOLhyphen"/>ble to the ſub<g ref="char:EOLhyphen"/>ſequent ex<g ref="char:EOLhyphen"/>amples of this Caveat.</note> though not out of <hi>treachery,</hi> yet if it be
+but of baſe <hi>timidity</hi> or feare; God herein ſhewing his wrath and
+indignation, and cauſing his jealouſie to breake out againſt theſe
+alſo, letting them ſee how dangerous it is to jeſt or dally with ſuch
+ſharp edg'd tooles as theſe to the undoing of their ſoules and bo<g ref="char:EOLhyphen"/>dies
+too, I ſay, if in his owne free grace and meere mercy he did
+not in the midſt of juſtice remember to intermix mercy, and to
+looke backe, as it were, on their ſinking ſoules, as he did on <hi>Peter</hi>
+in ſuch a caſe (if at leaſt they belong to <hi>Chriſt</hi> as <hi>Peter</hi> did) tea<g ref="char:EOLhyphen"/>ching
+them thereby to know the price of denying their <hi>Maſter</hi>
+or his <hi>Cauſe</hi> before men, if not, I ſay, prevented by true and timely
+repentance. All which I ſhall make moſt evident and cleare by
+theſe foure or five Examples, all of them fallen out lately in theſe
+our probationall times, which (by Gods providence) have come
+to my hands and knowledge, and which for the <hi>glory of God</hi> and
+<hi>honour</hi> of our moſt precious <hi>Parliaments Cauſe,</hi> I could not con<g ref="char:EOLhyphen"/>ceale,
+but ſet forth moſt faithfully, as I have received them from
+moſt indubitable and unqueſtionable Teſtimonies of the truth of
+them all; even, I ſay, by thoſe who were both Eye and Ear-wit<g ref="char:EOLhyphen"/>neſſes
+of the truth of them.</p>
+               <p>And here now in the firſt place, I might inſtance in a learned and
+reverend Miniſter of <hi>Lincolnſhire,</hi>
+                  <note place="margin">1. A Doctor in Divinity of Lincolnſhire fell mad upon<g ref="char:punc">▪</g> the taking of the Oxonian Proteſtation againſt the Parliament.</note> a <hi>Doctor in Divinity,</hi> who being
+taken by the Kings Cormorants, and carried priſoner to <hi>Ne<g ref="char:EOLhyphen"/>warke,</hi>
+and there enforced to take the <hi>Oxonian</hi> Proteſtation or Co<g ref="char:EOLhyphen"/>venant
+againſt the <hi>Parliament,</hi> which (it ſeemes) out of ſervile
+feare and unworthy puſillanimity, he did, immediately after it, out
+or remorſe of Conſcience, fell mad and fearfully diſtracted in his
+ſenſes, and ſo continued for almoſt the ſpace of halfe a yeere, this
+being done by him about the midſt of the laſt Summer 1643. but
+being ſince at liberty among his <hi>Parliamentary</hi> friends, is in good
+<pb n="24" facs="tcp:112665:16"/>
+meaſure recovered, and a hearty Penitent for it. But it being deſi<g ref="char:EOLhyphen"/>red
+his name ſhould bee concealed, I ceaſe to ſay any more there<g ref="char:EOLhyphen"/>in
+ſave onely this, That I have this briefe relation from ſuch un<g ref="char:EOLhyphen"/>queſtionable
+and credible teſtimony as moſt ſtrongly confirmes the
+truth thereof unto me. And might we not, here now, thinke this
+one ſingle example ſufficient, to deter our cowardly Newters from
+ſo vicious and pernicious prejudicating and deſerting the <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi>
+pious proceedings? Yes certainly, had they but any ſmall
+ſparkes of ingenuity left alive in them: but ſince I know that they,
+yea, and Gods owne people too, muſt have line upon line (as the
+Prophet ſayes) and example upon example, and all too too little,
+till Gods Spirit of Grace awakens their dead and drouſie Conſci<g ref="char:EOLhyphen"/>ences.
+I ſhall now give them another Example which comes more
+cloſe unto them, and moſt worthy their deep and ſerious obſerva<g ref="char:EOLhyphen"/>tion
+and conſideration, which briefly is this:</p>
+               <p>Upon the ſecond day of May 1643. one <hi>Thomas Bretton</hi> a young
+man,<note place="margin">2. One <hi>Thomas Bretton,</hi> a moſt bitter and active Malig<g ref="char:EOLhyphen"/>nant againſt the Parlia<g ref="char:EOLhyphen"/>ment, remark<g ref="char:EOLhyphen"/>ably converted on his death<g ref="char:EOLhyphen"/>bed.</note> and moſt bitter and active <hi>Malignant</hi> againſt the <hi>Parliament,</hi>
+late ſervant to Alderman <hi>Cullum</hi> in <hi>Gracious ſtreet</hi> in <hi>London,</hi> fal<g ref="char:EOLhyphen"/>ling
+very ſick (which indeed ſhortly after proved a ſickneſſe unto
+death) deſired moſt earneſtly to ſpeake with a reverend and religi<g ref="char:EOLhyphen"/>ous
+Miniſter of the City, whom he had formerly heard preach,
+and could not be quiet till he was ſent for. The Miniſter being ſent
+unto, and intreated to come unto him accordingly, very willingly
+came; of whom (ſo ſoone as the ſicke party ſaw him) he moſt
+heartily deſired his pardon and forgiveneſſe. The Miniſter anſwe<g ref="char:EOLhyphen"/>red,
+That he knew not any thing wherein the ſick party had injured
+or offended him. But <hi>Bretton</hi> replied, <hi>That he had done him wrong in
+jeering and ſcoffing at him, though he knew not of it,</hi> and told him
+the particulars thereof. Whereupon this pious Miniſter told him,
+He freely forgave him. Then he deſired the Miniſter to pray with
+him, which he alſo did for the ſpace of about halfe an houre. Imme<g ref="char:EOLhyphen"/>diately
+after Prayer the ſicke party ſaid, He was now moſt happy,
+ſince God and Man had forgiven him; and told the Miniſter,
+hee was certaine God pardoned him all his finnes. The Mini<g ref="char:EOLhyphen"/>ſter
+anſwered, It was well, if his aſſurance were on good grounds.
+He replied, That he was ſure of it, for Chriſt had taken away all
+his ſinnes, which God had in his ſickneſſe ſet before his eyes; yea,
+and ſome ſuch finnes as he did not know or beleeve formerly to
+have beene ſinnes; but now Chriſt had borne them all on his owne
+<pb n="25" facs="tcp:112665:16"/>
+ſhoulders, and eaſed him of all that heavy burthen, with many
+other moſt heavenly and divine expreſſions. And being neere his
+death, even the night before he died, he ſaid, Hee aſſuredly ſaw
+Chriſt in a viſion appearing unto him, and telling him that his
+ſinnes were pardoned, and that he had a <hi>Cauſe</hi> on earth, and that
+the <hi>Parliament of England</hi> defended it, and that in the yeere of our
+Lord Chriſt 1644. the <hi>Parliament</hi> ſhould obtaine a great victory
+over the Kings Forces; and that then there ſhould bee none of
+thoſe wicked Miniſters (that had miſ-led Gods people) left among
+them, and that from that time the <hi>Parliament</hi> ſhould proſper; but
+in the meane ſeaſon, that <hi>the rod of the wicked ſhould reſt on the
+backs of his righteous ones.</hi> And after this hee lay glorying
+and rejoycing in the forgiveneſſe of his ſinnes, and even triumph<g ref="char:EOLhyphen"/>ing
+over death till the time of his departure, which was the next
+day. This relation was teſtified both by the ſaid learned, reve<g ref="char:EOLhyphen"/>rend,
+and religious <hi>Divine,</hi> who was often with him in his ſaid
+ſickneſſe, and heard moſt of his expreſſions; and alſo by another
+religious <hi>Gentleman</hi> who was alſo then preſent, and heard what is
+here delivered, as aforeſaid.</p>
+               <p>Alſo one <hi>Thomas Clarke,</hi> a ranke malignant young man, and
+ſervant to one Maſter <hi>Travill</hi> a merchant of <hi>London,</hi>
+                  <note place="margin">3. One <hi>Thomas Clarke</hi> alſo, a merchants man in <hi>London,</hi> a notable malignant, his penitent con<g ref="char:EOLhyphen"/>feſſion on his death-bed in honour of the Parliament.</note> being
+in the yeere 1643) ſtricken with ſickneſſe, of which he died;
+about three dayes before his death, one <hi>William Coote</hi> (a neighbour
+of his) comming to viſit him in this his ſickneſſe, and having ſate a
+while with him, as he was going away the ſick party deſired him to
+ſtay a little, and told him, that hee would now ſay more to him
+then he had done to any, which was this, I am now (ſayes hee)
+ſtrongly perſwaded in my heart, that the <hi>Parliament</hi> maintains a
+right cauſe, and at laſt ſhall have victory over the <hi>Kings Forces,</hi> for
+they, he ſaid, fought for <hi>Antichriſt;</hi> and he confeſt withall, that
+he had lived a very ſinfull life, and was moſt of all grieved that he
+had ſpoken ſo much againſt the <hi>Parliament,</hi> for which he wiſhed
+he could now weep teares of blood, together with very many pa<g ref="char:EOLhyphen"/>theticall
+ſpeeches to this purpoſe, and ſhortly after it departed this
+life. This I have alſo from very honeſt and religious hands and te<g ref="char:EOLhyphen"/>ſtimony,
+who have faithfully informed me of the truth thereof, as
+having been both eye and ear-witneſſes of the ſame.</p>
+               <p>In September alſo 1643. one Maſter <hi>Whitleigh</hi> in <hi>Golding, lane</hi> in
+<hi>London,</hi> with his wife Miſtreſſe <hi>Whitleigh,</hi> both of them very
+<pb n="26" facs="tcp:112665:17"/>
+religious Chriſtians,<note place="margin">4. A remarkable example of one Maſter <hi>Whitleigh</hi> and his wife, who deſerted the Cauſe of the Parliament.</note> and truly fearing the Lord, came with their
+foure children (not long before) to <hi>London</hi> from <hi>Tewksbury</hi> in
+<hi>Glouceſterſhire,</hi> principally deſiring to remove thence becauſe of the
+wicked converſation of the Cavaliers, billeted where he lived.
+And hee having formerly ſerved in the <hi>Parliaments</hi> Army againſt
+the <hi>Kings Forces,</hi> but being now at <hi>London,</hi> and for about three
+moneths ſpace void of imployment, reſolved to give over ſervice
+in the wars, as finding a timorous fearfulneſſe in himſelfe to ad<g ref="char:EOLhyphen"/>venture
+any more into the <hi>Parliaments</hi> Army, thereupon at laſt
+he had ſome thoughts to goe into <hi>New-England,</hi> and adviſing
+with his wife, who alſo was moſt unw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing hee ſhould any more
+put himſelfe into the Service of the <hi>Parliament,</hi> but by all meanes
+began to ſtrengthen his reſolution to goe away for <hi>New-England.</hi>
+Whereupon he peremptorily now reſolving to depart thither with
+his wife and children, preſently laid out thirty pounds for their
+paſſage by Sea, and as much more for proviſion of neceſſaries to
+the voyage. But being ready to depart, the Lord ſuddenly ſtruck
+him very ſicke, and in his ſickneſſe he was very much troubled in
+his minde, lamenting and crying out very much againſt the ſinne of
+Cowardiſe and Fearfulneſſe (which hee conceived to bee the
+ground of his intended removall to <hi>New-England</hi>) and therefore
+much diſtruſting his ſoules eſtate, cryed out often, That he had
+ſinned againſt God in cowardly deſerting his <hi>holy Cauſe;</hi> yet ear<g ref="char:EOLhyphen"/>neſtly
+praying the Lord to forgive him this ſinne, promiſing and
+proteſting that if the Lord vouchſafed to reſtore him to health
+and ſtrength againe, he would reſolutely goe on to ſpend every
+drop of the blood in his veines for the <hi>Parliaments Cauſe;</hi> and af<g ref="char:EOLhyphen"/>terward
+blaming his wife for giving her conſent and incouraging
+him therein, he ſhortly after died, yet before his departure he te<g ref="char:EOLhyphen"/>ſtified
+abundance of comfort and aſſurance of Gods favour and
+the pardon of his ſin. Immediately alſo after his death, it ſo plea<g ref="char:EOLhyphen"/>ſed
+the Lord that his wife fell ſo diſtracted, that three or foure
+women could ſcarcely hold her downe in her bed, and ſhe taking
+no ſuſtenance but what was forced into her mouth for many dayes,
+ſhe ſtill in all this time of moſt ſad perplexity crying out, That
+ſhe had ſinned againſt God in counſelling and incouraging her de<g ref="char:EOLhyphen"/>ceaſed
+husband to forſake <hi>Gods Cauſe,</hi> and thereby (ſhe feare<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) ſhe
+had beene the cauſe of his death. And thus ſhe lay divers dayes in
+much miſery, crying out of this her ſinne, and craving pardon of
+<pb n="27" facs="tcp:112665:17"/>
+God for it. And about the end of September aforeſaid, my godly
+friend, from whom I had this relation, comming occaſionally to her
+houſe to ſee her, found that her raging fits had left her, but her
+ſpirits much ſpent, and ſhe lying ſpeechleſſe, ſo that he knew not
+how to adminiſter a word of comfort to her in that caſe; where<g ref="char:EOLhyphen"/>fore
+being about to depart thence, ſhee looked ſtedfaſtly on him,
+reached out her hand to him, which he tooke in his, being as
+cold as clay, and therewith ſpake many comfortable words unto
+her, and ere he departed ſhe manifeſted very much conſolation
+in her ſoule, both by words (though faintly) and geſtures alſo,
+and in a moſt happy and comfortable condition departed this life
+alſo, the very next morning after his departure from her. This re<g ref="char:EOLhyphen"/>lation,
+I ſay, I had from a very religious Citizen of <hi>London,</hi> and
+faithfull ſervant of the Lord, who himſelfe was with Miſtreſſe
+<hi>Whitleigh</hi> thus departing, and whoſe own Siſter lived cloſe by theſe
+parties, was well acquainted with them both in their lives and
+death, and whoſe teſtimony I know to be without exception.</p>
+               <p>There was alſo about the time of the firſt victories of the fa<g ref="char:EOLhyphen"/>mous
+and renowned Towne of <hi>Mancheſter</hi> in <hi>Lancaſhire,</hi>
+                  <note place="margin">5. One Maſter <hi>Standidge</hi> a Lancaſhire Gentleman, deſerting the Parliament, ſuddenly ſlaine in the act of his defection.</note> in the
+yeere 1642. one M. <hi>Standidge</hi> a Gentleman of <hi>Lancaſhire,</hi> who
+had formerly beene a man much ingaged in his affections for the
+<hi>Parliaments Cauſe,</hi> and had oftentimes expreſſed ſo much both
+by his ſtiffe contendings with ſome that were very neere and deare
+unto him, as alſo by his practice and aſſiſtance given to the ſaid
+Cauſe. But afterward, by the ſlye inſinuations and perſwaſions
+of ſome ſeeming friends neere about him; but eſpecially being at
+laſt overſwaied and prevailed with (as was ſtrongly ſuppoſed) by
+the Lord <hi>Strange</hi> (then a great, but, bleſſed be God, a moſt un<g ref="char:EOLhyphen"/>ſucceſſefull
+ſtickler for the Kings party) he being very intimate
+with the ſaid Lord <hi>Strange.</hi> This ſaid Gentleman did at laſt ſo
+much croſſe his owne former practice and good eſteeme he had and
+held of the Worke and Cauſe of God in the <hi>Parliaments</hi> pro<g ref="char:EOLhyphen"/>ceedings,
+that he moſt unworthily quite deſerted it, yea ſo farre
+as to take up Armes againſt it; and as he was in perſon, in com<g ref="char:EOLhyphen"/>mand,
+and going againſt that honeſt, famous, and victorious Town
+of <hi>Mancheſter</hi> in the Lord <hi>Stranges</hi> Army; the Lord God of
+Heaven, in apparent diſpleaſure met with him in this moſt diſloy<g ref="char:EOLhyphen"/>all
+Apoſtacie, and going againſt God and his Cauſe: For as he
+was going to take Horſe upon ſome deſigne, neere to the ſaid Town
+<pb n="28" facs="tcp:112665:18"/>
+of <hi>Mancheſter,</hi> a bullet ſuddenly hit him, and kil'd him pre<g ref="char:EOLhyphen"/>ſently,
+not directly from the Towne, but the bullet glancing
+upon a wall, reached him with a gliding blow, and ſo cut him
+ſhort of his purpoſe, and gave him the ſad reward of his unhappy
+backſliding. This I have from ſuch unqueſtionable and religious
+teſtimony of a godly friend and neighbour of mine, as I know to
+be without all juſt exception.</p>
+               <p>And is not here now (one would thinke) teſtimony enough for
+thee, O incredulous Malignant, yea, even from the mouthes of two
+Converts formerly of thine owne ranke and rotten condition, but
+now, and that upon their death-beds (<hi>and the words of dying
+men we know, doe, or ought to take deepe impreſſion</hi>) making ingeni<g ref="char:EOLhyphen"/>ous
+confeſſion of their and your folly and madneſſe in ſo injuri<g ref="char:EOLhyphen"/>ouſly
+oppoſing the pious and juſt proceedings of the <hi>Parlia<g ref="char:EOLhyphen"/>ment?</hi>
+But now take one more to cleare theſe truths yet more
+abundantly,<note place="margin">6. A moſt re<g ref="char:EOLhyphen"/>markable re<g ref="char:EOLhyphen"/>lation of Ma<g ref="char:EOLhyphen"/>ſter <hi>Joſeph Latch</hi> a Mer<g ref="char:EOLhyphen"/>chant, his great miſery for de<g ref="char:EOLhyphen"/>ſerting the Parliament, and his merci<g ref="char:EOLhyphen"/>full recovery.</note> yea, one of no leſſe moment and materiality then
+any of the former, and moſt worthy ſerious notice and obſerva<g ref="char:EOLhyphen"/>tion,
+namely, of one Maſter <hi>Ioſeph Latch,</hi> a Merchant in <hi>Baſhings<g ref="char:EOLhyphen"/>hall-ſtreet</hi>
+in <hi>London,</hi> who having (by Gods bleſſing upon his en<g ref="char:EOLhyphen"/>deavours
+in his calling) gotten a good eſtate, and being a pious
+young Gentleman, and well affected to the publike good of the
+Kingdome in the beginning of this Parliamentary warre, and ſet
+forth two Horſes for the ſaid ſervice at his owne proper charge;
+but having ſome conſiderable goods at <hi>Briſtoll,</hi> which he deſired
+to convey to <hi>Mancheſter</hi> by land, in which land-paſſage a prote<g ref="char:EOLhyphen"/>ction
+from the King was neceſſary for their ſafe convoy thorow
+<hi>Shrewsbury,</hi> where lay a Garriſon of the Kings Cormorants: up<g ref="char:EOLhyphen"/>on
+this occaſion hee forced himſelfe to goe to <hi>Oxford</hi> to procure
+ſuch a protection. Thus then he tooke his journey thither, where
+he was no ſooner arrived, but it pleaſed the Lord it ſhould ſo fall
+out, that he was preſently eſpied by one that had beene a Ma<g ref="char:EOLhyphen"/>lignant
+neighbour of his in <hi>London,</hi> a Lawyer, by whoſe meanes
+he was preſently apprehended as a Spie, on which ſuſpicion hee
+was inſtantly clapt up priſoner in the Caſtle, and immediatly after
+was fetcht before the <hi>Councell-Table,</hi> and in danger of his life.
+But having there very good friends of the Kings party, namely, Sir
+<hi>George Binion,</hi> Sir <hi>Nicholas Criſpe,</hi> and Mr. <hi>Bradborne</hi> his kinſman,
+and others, he was by the Kings owne Warrant ſet at liberty and
+entertained at Sir <hi>George Binious</hi> lodgings; and yet againe for all
+<pb n="29" facs="tcp:112665:18"/>
+this, <hi>Smith</hi> that helliſh <hi>Cerberus,</hi> the Provoſt-marſhall fetcht him
+out of <hi>Bynions</hi> lodgings at eleven of the clocke at night, and carri<g ref="char:EOLhyphen"/>ed
+him to priſon againe. Whereupon <hi>Bynion</hi> went againe to the
+King, together with Mr. <hi>Bradborne,</hi> told His Majeſty of it, who
+ſeemed much diſcontented thereat, and preſently ſent a Squire of
+His body with a Commiſſion to lay <hi>Smith</hi> by the heeles for his pre<g ref="char:EOLhyphen"/>ſumption,
+and to enlarge Mr. <hi>Latch;</hi> yea, and that without taking
+the <hi>Oxford Proteſtation,</hi> leſt thereby his eſtate in <hi>London</hi> ſhould
+have been ſeized on by the <hi>Parliament,</hi> as the eſtate of a <hi>Sworne<g ref="char:EOLhyphen"/>malignant,</hi>
+yet with a private ſerious promiſe and engagement to
+<hi>Bynion,</hi> that he would never hereafter put forth himſelfe in any
+publique ſervice for the <hi>Parliament.</hi> So he at laſt returned ſafely
+home, and in order to his promſe was now growen very ſhy of
+ſerving with his Company according to the <hi>Ordinance</hi> of the <hi>Mi<g ref="char:EOLhyphen"/>litia;</hi>
+and ſhortly after, through the ill-advice of a very malignant
+companion of his, made over his eſtate into <hi>Holland,</hi> put off his
+houſe in <hi>Baſhing ſhall</hi>-ſtreet, and then withdrew his perſon alſo into
+<hi>Holland,</hi>
+                  <note place="margin">Thus our Eng<g ref="char:EOLhyphen"/>gliſh <hi>Jonas</hi> would have fled from <hi>Ni<g ref="char:EOLhyphen"/>neve</hi> to <hi>Tarſhiſh,</hi> but God raiſed a ſtorme in his conſcience, which drove him backe to our <hi>London Ni<g ref="char:EOLhyphen"/>neve</hi> there to cry repentance.</note> intending there to have lived till theſe times might change;
+and thus he quite deſerted the <hi>Parliament.</hi> But he had not beene
+there above three weekes or a moneth, but that it pleaſed God he
+fell ſicke there, and had a great and reſtleſſe deſire to come backe
+againe into <hi>England;</hi> and accordingly, having a fit opportunity,
+imbarked himſelfe, and was brought backe ſicke to <hi>London,</hi> that
+thus by the providence of God ſo ordering it, he might manifeſt
+his repentance here where he had finned, and be an example to
+others both of the horrour which ariſes out of a guilty conſcience
+ſenſible of apoſtacy from a good Cauſe, and alſo from our <hi>Parlia<g ref="char:EOLhyphen"/>mentary
+Proteſtation</hi> and <hi>Covenant</hi> to maintaine the ſame. Thus
+then, I ſay, being come off the water, on Munday <hi>Sept.</hi> 25. 1643.
+he went to a friends houſe of his, one Mr. <hi>Lacey</hi> in <hi>Canon-ſtreet,</hi>
+where he went ſicke to bed, and in two daies his ſickneſſe and cor<g ref="char:EOLhyphen"/>ſcience
+working together, he much deſired to ſpeake with ſome
+godly Miniſter. Whereupon one was ſent for, who accordingly
+came to him on the Wedneſday night; but knowing nothing of his
+defection from the Parliament, and hearing a good report of his
+former honeſt converſation, he onely queſtioned him about his
+faith in Chriſt; whereunto receiving an appoſite anſwer, he held
+out unto him ſome promiſes of the Goſpell, wherein his ſoule
+might cleave unto the Lord, and having commended him unto the
+<pb n="30" facs="tcp:112665:19"/>
+grace of God, departed for that time; but Mr. <hi>Latch</hi> found ſuch
+ſweetneſſe in thoſe promiſes, that he ſtill would be asking when
+that Miniſter would come againe. That <hi>Thurſday</hi> and <hi>Friday</hi> paſt,
+and the Miniſter not ſent for; but on the <hi>Saturday</hi> following he
+called very earneſtly for the ſaid Miniſter, and would not be ſatiſ<g ref="char:EOLhyphen"/>fied
+without him: ſo he being ſent for, came to him that <hi>Saturday</hi>
+at night, and found him very anxious about getting Chriſt, he oft
+ſaying, if I have not Chriſt, I muſt periſh eternally. But immedi<g ref="char:EOLhyphen"/>ately
+after, as a man ſwallowed up of deſpaire and drenched in the
+wrath of God, he cried out, I am in Hell, I am in Hell. Then an
+honeſt young Gentleman his loving friend, who had been his fel<g ref="char:EOLhyphen"/>low-apprentiſe,
+and unto whom he had uſed to unboſome him<g ref="char:EOLhyphen"/>ſelfe,
+ſtept to the Miniſter and told him what was the cauſe of all
+this horrour of conſcience in him, and ſo related to him the ſub<g ref="char:EOLhyphen"/>ſtance
+of all fore-mentioned. Then the ſaid Miniſter went againe
+to M. <hi>Latch,</hi> and asked him if he had taken the Kings <hi>Proteſtation at
+Oxford,</hi> who anſwered, no; yet ſtill rejected (in a deſperate manner)
+all the comfortable words that were alledged for his faith to reſt
+upon; ſtill crying out, I am in hell, I ſinke lower and lower; O
+was there ever ſuch an hypocrite as I am, and therefore I muſt be
+damned, and I alone muſt have my portion with <hi>Iudas,</hi> and be an
+example to all the world and lie in hell to all eternity, in ſo deny<g ref="char:EOLhyphen"/>ing
+the <hi>Parliament:</hi> and goe, ſaies he, to his brother that ſtood by
+him, and tell ſuch an one, and ſuch an one, two perſons to whom
+he had neere relation, that if they hold on their way, they muſt
+burne in hell as I doe; and neither his godly friend, nor the Mini<g ref="char:EOLhyphen"/>ſter
+could perſwade him that he was out of Hell; yet the Miniſter
+ſtill moſt piouſly wreſtling againſt his deſpaire, told him that Hell
+was not above ground (in the Land of the living) and therefore
+he was not yet in Hell, but that he ſhould goe to Hell ſhortly if he
+would not believe in Chriſt Jeſus; and then told him he would
+pray for him: But he replied, you ſhall ſave the Flocke of Chriſt,
+but you cannot ſave me, I am paſt prayer. And with the like lamen<g ref="char:EOLhyphen"/>table
+ſpeeches, as of a man in the very torments of the damned;
+he did oft interrupt the Miniſter in his prayer, and ſo continued
+in this deſpairing fit till after prayer. Then the Miniſter charged
+him to hearken to him, ſaying, You never (you aſſure me) tooke
+the <hi>Proteſtation</hi> at <hi>Oxford</hi> againſt the Parliament, but <hi>Peter</hi> denied
+Chriſt with an <hi>Oath,</hi> yea and with a <hi>Curſe</hi> too; yet he went out
+<pb n="31" facs="tcp:112665:19"/>
+and wept bitterly, and was reſtored to grace and favour againe.
+Chriſt ſaith, <hi>Come unto me all ye that are weary and heavy laden, and
+I will give you reſt:</hi> you are weary and heavy laden, come to Chriſt,
+believe in him, and he will eaſe you, and will blot out your iniqui<g ref="char:EOLhyphen"/>ties
+for his owne names ſake. At which words, he ſuddenly raiſed
+up himſelfe in his bed, and with exceeding earneſtneſſe of ſpirit
+put forth ſtrong cries unto God, ſaying, <hi>Lord helpe mine unbeliefe,
+Lord helpe mine unbeliefe, Lord helpe mine unbeliefe,</hi> three times
+together; and immediately thereupon burſt forth into exceeding
+great comfort, ſaying, O wonderfull mercy, Chriſt is come to
+fetch me out of Hell, and I ſhall not periſh; my cries have entered
+into the eares of the Lord of Sabbath, who hath now given ſweet
+reſt to my ſoule. And thus with many heavenly expreſſions of
+Chriſts wonderfull mercy toward him, he continued at leaſt two
+houres full of ſweet raptures and raviſhments of ſoule; and be<g ref="char:EOLhyphen"/>ſought
+the Miniſter and his friends about him to make knowne
+theſe things, and how gracious and mercifull Chriſt had been
+unto him: and this alſo he deſired them to take ſpeciall notice of;
+namely, that he proteſted that what he had ſaid (as before) was not
+out of any lightneſſe or diſtemper of his braine, but in ſenſible ap<g ref="char:EOLhyphen"/>prehenſions
+of his ſoule, and what Chriſt had dictated to him, in
+whoſe armes he ſaid he now was moſt ſweetly imbraced, and that
+he had now found (as he had often heard) that as the way to Hea<g ref="char:EOLhyphen"/>ven
+was by the gates of Hell; ſo he had found it true, and had not
+onely gone by the gates of Hell, but even through Hell it ſelfe, but
+now Chriſts glorious mercy had fetcht him forth; and therefore
+he prayed them againe to tell and publiſh abroad what great things
+Chriſt had done for him, and then all that were preſent went
+againe to prayer, and he prayed with them; and when his breath
+failed, he would lift up his hands; but before prayer was quite en<g ref="char:EOLhyphen"/>ded
+he moſt ſweetly expired, as he ſaid, in the Armes of his ſweet
+Saviour Chriſt Jeſus, leaving the Miniſter and his Chriſtian friends
+(who had been ſorrowfull witneſſes of the former dreadfull people<g ref="char:EOLhyphen"/>xities
+and horrour of his conſcience) now moſt abundantly cheered
+and full of comfort and conſolation in the Lord, for this admira<g ref="char:EOLhyphen"/>ble,
+gracious change and concluſion.</p>
+               <p>And now, I hope, I have fully performed what I promiſed at
+the beginning, and have copiouſly confirmed the truchs I intended
+to deliver and repreſent in this my <hi>Looking-glaſſe.</hi> And now I ſhall
+<pb n="30" facs="tcp:112665:20"/>
+onely deſire to ſumme up all in a very ſuccinct <hi>hortatory obſervation</hi>
+of all hitherto delivered in this our <hi>Malignants mirrour</hi> or <hi>Looking-glaſſe.</hi>
+And firſt I deſire to ſpeake a word or two to our cowardly
+<hi>Neuters,</hi> and faint hearted <hi>deſerters</hi> of Gods <hi>Cauſe</hi> in this our <hi>Par<g ref="char:EOLhyphen"/>liament;</hi>
+wherein I feare too many even of Gods children (and
+otherwiſe good Chriſtians, I hope) are too guilty. That ſince the
+<hi>Parliaments cauſe</hi> is unqueſtionably <hi>Gods cauſe,</hi> and that our <hi>Ma<g ref="char:EOLhyphen"/>lignants</hi>
+have clearely ſeene that God is ſo jealous of this his <hi>ho<g ref="char:EOLhyphen"/>nourable
+Cauſe,</hi> that he will not ſpare even his owne Servants, if
+they either reject or neglect his <hi>Cauſe</hi> before men, and that he
+will certainly ſooner or later wound their <hi>conſciences</hi> with terrour,
+if they thinke to wound his <hi>cauſe,</hi> with either <hi>treachery</hi> or <hi>timidity</hi>
+and baſe <hi>cowardiſe;</hi> let them not, I ſay, thinke to ſleepe in a whole
+skin, to ſhrinke their necks out of the coller and doe well enough
+for all that: for certainely God can and will find them out at laſt,
+as they alſo may have ſeene in theſe former examples of two or
+three, even of Gods deare children, who like <hi>Ionas</hi> would needs be
+flying from <hi>God</hi> and his <hi>cauſe,</hi> one into <hi>New-England,</hi> and another
+into <hi>Holland,</hi> but how the Lord found them out, cauſed them to
+ſee their faithleſſe folly, and ere he was reconciled to them ſmar<g ref="char:EOLhyphen"/>ted
+them both ſoundly for it; and though he come ſlowly and (as
+the obſervation is) with <hi>Leaden-heeles,</hi> yet will come ſorely, and
+with <hi>Iron-hands,</hi> as hath been here before moſt evidently ſeen. And
+let them often ruminate and remember (and that with trembling)
+what the Spirit of God ſaies in the booke of the <hi>Revelations,</hi>
+                  <note place="margin">Revel. 21. 7. 8.</note> 
+                  <hi>He
+that overcommeth (that is,</hi>
+                  <note place="margin">Heb. 3. 12.</note> 
+                  <hi>which ſtands cloſe to God and his cauſe,
+without fainting or giving over) ſhall inherit all things, and I will be
+his God, and he ſhall be my ſonne. But, the fearefull and unbelievers</hi>
+(ſee here, <hi>O cowardly Newters,</hi> to thy ſhame and terrour, who are put
+in the very front or forlorne hope of the rabble of wicked ones, that
+ſhall be ſhut out of the <hi>New-Jeruſalem) ſhall have their part in the
+like which burnes with fire and brimſtone.</hi> Take heed therefore my
+brethren (as the Authour to the <hi>Hebrews</hi> adviſeth) <hi>leſt there be in
+any of you an evill heart of unbeliefe,</hi>
+                  <note place="margin">Heb. 10. 38.</note> 
+                  <hi>in departing from the living
+God.</hi>
+                  <note place="margin">Luke 9. 62.</note> For certainely, ſaies the ſpirit of truth (in the ſame Epiſtle)
+<hi>If any man draw backe (or has, as Chriſt himſelfe teſtifies, put his
+hand to the Plough of Gods worke and cauſe, and lookes backe, is un<g ref="char:EOLhyphen"/>fit
+for Heaven;</hi> nay more) <hi>Gods ſoule will take no pleaſure in ſuch an
+one.</hi> Beſides, remember this ſeriouſly, I pray thee, that a <hi>Newter,</hi>
+                  <pb n="33" facs="tcp:112665:20"/>
+or Key-cold fellow in <hi>Gods cauſe,</hi> is a moſt deſpicable creature,
+deſpiſed both of <hi>God</hi> and the <hi>Devill,</hi>
+                  <note place="margin">The miſerable condition of Cowards and Newters de<g ref="char:EOLhyphen"/>ſcribed.</note> being apt to be falſe and faith<g ref="char:EOLhyphen"/>leſſe
+to them both, and ſo good for the uſe of neither of them, as not
+caring whether <hi>Gods</hi> or the <hi>Devils cauſe</hi> faile or prevaile, ſinke
+or ſwim; what cares he ſo he may ſit ſtil and enjoy his baſe
+peace and pelfe? onely, it may be, he will give them ſome ſeeming
+good wiſhes, at moſt and beſt. O let ſuch as theſe, timely take
+heed by theſe examples, that God meet them not ſorely and ſurely
+too at laſt: and if thy <hi>Neutrality</hi> be from wilfull and wicked
+principles, then feare indeed and tremble at thy eſtate, by thoſe
+examples of <hi>Gods hand</hi> upon thoſe miſchievous and malevolent
+<hi>malignants</hi> by death and deſtruction, even in the very acting of
+their evils. If out of meere <hi>ſlaviſh feare</hi> and unworthy <hi>cowardiſe,</hi>
+yet feare alſo by thoſe other examples, conſidering what terrible
+ſtraits and ſoule-pinching perplexities it may bring thee unto, at
+the beſt; and preſume not, though they happily repented and were
+ſaved; for repentance is a Flower that growes not naturally in
+our Gardens, but is the onely gift of God, and he gives it graci<g ref="char:EOLhyphen"/>ouſly
+when and to whom he will. Therefore, I ſay, preſume not
+but feare; and whiles thou haſt yet ſpace, labour for grace, even
+immoveable faithfulneſſe, courage, and perſeverance; remembring
+ever, who it was that ſaid, even truth it ſelfe, <hi>He that denies me, or is
+aſhamed of me before men, I will deny him and be aſhamed of him before
+my Father which is in Heaven.</hi> And thus I have done with theſe.</p>
+               <p>But now in the laſt place I deſire alſo to ſpeake a word or two
+unto our moſt unhappy, miſerable, and marble-hearted <hi>malignants</hi>
+(whom from my ſoule I pity and pray for, as my brethren in the
+fleſh) implacable and inveterate haters of <hi>Holineſſe</hi> and of a pure
+<hi>Reformation,</hi> who would faine (under a beggarly pretext of a
+lazy, licentious <hi>Peace,</hi> forſooth) ſtill be more and more ſetled on
+the Lees of their old, infant, halfe Reformation, (comfortable
+then I confeſſe, in bleſſed Queen <hi>Elizabeths</hi> daies, if we reflect on
+the wofull <hi>Marian</hi> daies before) even meere formall <hi>Protestan<g ref="char:EOLhyphen"/>tiſme</hi>
+at large, which in effect is but down-right <hi>Atheiſme;</hi> or at
+beſt, a back doore to <hi>Papiſtry,</hi> as we have uſed the matter for ſo
+many yeeres paſt; The upholding and maintaining whereof, I
+take for granted; to be the ground of the great quarrell betweene
+them and Gods people now adaies. What will ye (then) or
+what can ye ſay for your ſelves poore mole-ey'd and miſerable
+<pb n="34" facs="tcp:112665:21"/>
+men? (after the ſerious fight and rumination on all theſe forelaid
+remarkable evidences and moſt luculent and conſpicuous demon<g ref="char:EOLhyphen"/>ſtrations
+of <hi>Gods immediate hand both againſt and upon you;</hi> and
+after all theſe notable <hi>Convictions</hi> and <hi>Confeſſions</hi> of the horrible
+and God-hated <hi>evill</hi> of your <hi>cauſe</hi> and <hi>caſes;</hi>) what, I ſay, will
+you now anſwer for your ſelves, why you may not moſt properly
+and pertinently be called and counted <hi>wilfull and obſtinate fighters
+againſt God and his juſt cauſe?</hi> See then, I beſeech you (but if you
+will not timely ſee, you ſhall (as I ſaid before) ſee at laſt and be
+aſhamed and ſmart too) and be timely and wiſely perſwaded (as
+the truth is) that though you will not acknowledge it, you your
+malignant workes plainely ſhew it, and eſpecially the Spirit of
+God (the onely true ſearcher and diſcoverer of the hearts and
+reines of all) hath moſt clearely declared to us in the ſecond
+Pſalme, both your <hi>worke</hi> and your <hi>wages,</hi> your <hi>wicked cauſe;</hi> and
+your <hi>wretched caſes,</hi> viz. That all the banding and binding of the
+heads and hearts together of <hi>Gebal, Ammon</hi> and <hi>Amaleck</hi> &amp;c.
+of ſottiſh <hi>formall Proteſtants,</hi>
+                  <note place="margin">What King our formall Prote<g ref="char:EOLhyphen"/>ſtants chooſe and refuſe.</note> 
+                  <hi>Prelates</hi> and <hi>Papiſts,</hi> with all
+that <hi>Ieſuiticall rabble,</hi> is mainely and onely this; <hi>We will not have
+this man, King Ieſus;</hi> (but the tyrannicall and diabolicall <hi>uſurpers,</hi>
+baſe <hi>luſts,</hi> ſoul-ſlaying <hi>corruptions, ſinne</hi> and <hi>Satan) to reigne over
+us;</hi> and therefore let us (ſay they) breake his bands in ſunder; that
+is, let us <hi>violate</hi> and <hi>vitiate</hi> his <hi>holy</hi> and <hi>wholſome</hi> Lawes and Com<g ref="char:EOLhyphen"/>mandements:
+let us eaſt away his cords from us; that is, let us
+contemne and deſpiſe his ſoul-ſaving counſels, free grace and love,
+and all his heart-eſtabliſhing precious promiſes: but all this
+while they blindly and blockiſhly forget, or will not ſee and per<g ref="char:EOLhyphen"/>ceive
+(as the ſame <hi>Spirit</hi> and fountaine of <hi>Truth</hi> tels them) that the
+Lord now reſolves to ſet his onely begotten Sonne <hi>Chriſt Ieſus,</hi> as
+<hi>Lord and King</hi> to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and raigne (over the tops of all the <hi>Moun<g ref="char:EOLhyphen"/>taines</hi>
+of the earth) upon <hi>Sion</hi> his moſt holy <hi>Hill;</hi> and that he
+therefore, even the <hi>Lord,</hi> the great <hi>Iehovah</hi> ſits in Heaven ſees, and
+ſmiles at, and laughs to ſcorne all their combinations and accurſed
+confederacies, all their freting and fuming, beating and breaking
+of their braines and hearts too,<note place="margin">When Malig<g ref="char:EOLhyphen"/>nants cauſe ſhal overcome.</note> and telling them to their teeth, and
+ſhewing them, maugre their brazen browes, that all the while
+<hi>they doe but imagine a vaine thing,</hi> which they never can they never
+ſhall bring to paſſe; For of this let them be moſt ſure, that till they
+can make it appeare or probable that <hi>Satan</hi> is ſtronger and wiſer
+<pb n="55" facs="tcp:112665:21"/>
+than the <hi>Almighty,</hi> that <hi>Antichriſt</hi> is able to overcome the <hi>Lord
+Chriſt,</hi> to whom the <hi>Father</hi> hath committed all power in Heaven
+and Earth; I ſhall never believe, that <hi>they</hi> or their <hi>cauſe</hi> ſhall pre<g ref="char:EOLhyphen"/>vaile.
+For, I ſay, God hath put into Chriſts hands an <hi>Iron Mace,</hi>
+not onely to <hi>bruiſe,</hi> but to <hi>breake in pieces</hi> (like ſo many <hi>pot-ſheards</hi>)
+their earthen and ſtony hearts though ever ſo ſeemingly ſtout and
+ſtubborne, as partly and pretty-well (one would thinke) I have
+here, in theſe forecited examples made moſt plaine and conſpicu<g ref="char:EOLhyphen"/>ous,
+but eſpecially, as the <hi>Lord God</hi> himſelfe in all ages and times
+hath made moſt manifeſt to the whole World, even from the begin<g ref="char:EOLhyphen"/>ning
+of it to our preſent times;<note place="margin">Pſal. 76. 10.</note> nay, not onely ſo, but that the <hi>Lord
+hath moſt admirably made</hi> (and that with a witneſſe too) <hi>the wrath
+of man to turne to his own high glory and praiſe, yea and ſo reſtrained and
+conſtrained the remainder thereof</hi> to keepe within limits and bounds,
+as not to breake out to do that miſchiefe unto <hi>His</hi> which their ma<g ref="char:EOLhyphen"/>lignant
+adverſaries moſt deſperately and divelliſhly intended to
+have done unto them.<note place="margin">Malignants are but Gods drudges, and ſcull-boyes to his Church and children.</note> Nay (wherein they are yet farre more mi<g ref="char:EOLhyphen"/>ſerable,
+yea moſt miſerable of all) God moſt wiſely and wonder<g ref="char:EOLhyphen"/>fully
+makes them in this their intended malice and miſchiefe, to be
+but as it were, the very <hi>drudges</hi> and <hi>ſcull-boyes</hi> of his <hi>Church</hi> and
+<hi>children<g ref="char:punc">▪</g>
+                  </hi> and to doe them farre more good than hurt, in ſcouring
+and refining them from their droſſe and filth contracted from the
+rubbiſh of the world in this life; yea and by their <hi>malignant plot<g ref="char:EOLhyphen"/>tings,
+fighting</hi> and <hi>ſpighting,</hi>
+                  <note place="margin">Reverend and religious Mr. <hi>Marſhall.</hi>
+                  </note> 
+                  <hi>curſing, ſwearing, jeſting</hi> and <hi>jeering</hi> at
+<hi>truth</hi> and <hi>holineſſe</hi>) they ſhall (as a moſt holy and reverend Mi<g ref="char:EOLhyphen"/>niſter
+of the Lord, ſaid) exceedingly helpe forward, promote
+and advance <hi>Gods cauſe,</hi> yea more (many times) than many of the
+choice friends thereof; and yet (which, I ſay, is the <hi>height</hi> or ra<g ref="char:EOLhyphen"/>ther
+the <hi>depth</hi> of their <hi>miſery</hi>) when they have thus done <hi>Gods
+worke</hi> (though they little thought it, and never intended it) <hi>they
+themſelves</hi> (like the blinde builders of <hi>Noahs Arke,</hi> who were
+after it drowned in the <hi>Deluge</hi>) ſhall be ſo farre from having any
+part or portion in the <hi>comfortable iſſue</hi> &amp; <hi>prosperity</hi> of his <hi>cauſe,</hi> that
+they ſhal die in their ſinne, and be everlaſtlingly damned and periſh
+for their paines therein; if, I ſay, in the interim<g ref="char:punc">▪</g> God in his infinite
+&amp; boundleſſe rich mercy, gives them not ſpace and grace to repent.</p>
+               <p>What an unexpreſſible ſad condition are ye (then) in, O moſt
+miſerable <hi>Malignants,</hi> if you could but ſee this your <hi>wicked
+worke,</hi> and this your <hi>wretched wages,</hi> as aforeſaid, even with pro<g ref="char:EOLhyphen"/>phane
+<pb n="36" facs="tcp:112665:22"/>
+                  <hi>Eſau,</hi>
+                  <note place="margin">Hebr. 12. 16. 1 King. 21. 20.</note> thus to ſtrive and ſtruggle to ſell away (as 'twas
+ſaid of <hi>Ahab,</hi> that <hi>he ſold himſelfe to worke wickedneſſe</hi>) your
+bleſſed <hi>Birth-right</hi> of life and ſalvation. (I ſpeake here the pure
+language of <hi>Canaan,</hi> maugre the falſe and fl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhie conceits and
+whimſies of our impious <hi>Antinomians,</hi> thoſe ſlye and jugling un<g ref="char:EOLhyphen"/>derminers
+of Chriſtian <hi>humiliation</hi> for ſinne,<note place="margin">A juſt objur<g ref="char:EOLhyphen"/>gation to An<g ref="char:EOLhyphen"/>tinomians, by way of a briefe digreſſion.</note> and of all other ho<g ref="char:EOLhyphen"/>ly
+<hi>duties,</hi> under a colour of their either ignorant or perverſe wreſt<g ref="char:EOLhyphen"/>ing
+and miſapplying of <hi>Gods eternall decree of ſalvation</hi> and <hi>free
+grace</hi> to his children. Yea, I ſay of thoſe unjuſt and injurious
+ſcandalizers of our venerable, pious, and moſt painfull <hi>Paſtors,</hi>
+falſly terming them <hi>Legall Preachers,</hi> and preſſers of performance
+<hi>of holy duties in our owne ſtrength and abilities;</hi> a moſt groſſe ſcan<g ref="char:EOLhyphen"/>dall
+and aſperſion audaciouſly caſt on them by theſe <hi>Satans Seedſ<g ref="char:EOLhyphen"/>men</hi>
+of <hi>ſedition</hi> and <hi>diviſion</hi> in point of Religion. Pardon, good
+Reader, this glancing digreſſion of zeale in me, and now to go on)
+to ſtruggle, I ſay, with prophane <hi>Eſau,</hi> to ſell your bleſſed <hi>Birth-right</hi>
+of <hi>life</hi> and <hi>ſalvation,</hi> for a poore, baſe, and beggarly <hi>morſell
+of meat,</hi> or <hi>meſſe of pottage</hi> of worldly pel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, carnall pleaſure,
+and pretended peace forſooth, which ſhall all periſh in the uſe of
+them, and prove unto you nothing but meere vani<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y and vexation
+of ſpirit.</p>
+               <p>Ceaſe then, I beſeech you, O moſt unholy and unhappy <hi>Ma<g ref="char:EOLhyphen"/>lignants,</hi>
+ceaſe I ſay, and that timely too, thus to fret and fume, to
+ſwear and ſwagger, and to ſhew your ſelves ſuch palpable and ap<g ref="char:EOLhyphen"/>parent
+<hi>fighters againſt God,</hi> ſuch banders and combiners againſt
+Chriſt in his precious and peculiar members, whom though you
+doe in your life and healthy times ſcorne and contemne,<note place="margin">The eſteeme that Malig<g ref="char:EOLhyphen"/>nants have of Round-heads in the times of their ſickneſſe and diſtreſſes.</note> yet in
+times of ſickneſſe or extreme ſtraits and heavy preſſures, and con<g ref="char:EOLhyphen"/>ſcience-diſtreſſes,
+theſe are the onely men you fare the better for;
+theſe are the men, I ſay, that you are often enforced (even out of
+Conſcience) to ſend for in your ſickneſſe (eſpecially when you
+thinke 'tis a ſickneſſe to death) to pray for you, counſell and com<g ref="char:EOLhyphen"/>fort
+you; yea, and ofttimes in health too, are conſtrained to con<g ref="char:EOLhyphen"/>feſſe
+of them,<note place="margin">1 Sam. 24. 17.</note> and to ſay with wicked <hi>Saul</hi> to holy <hi>David, Thou
+art more righteous than I, for thou haſt rewarded me good, whereas I
+have rewarded thee evill.</hi> And therefore truly friends, in theſe like
+caſes, I may greatly and moſt juſtly feare (and I beſeech you marke
+well what I now ſhall ſay unto you, and feare and tremble at it
+too) that moſt of the <hi>Grandees</hi> and <hi>Coſmopolites</hi> of theſe our abo<g ref="char:EOLhyphen"/>minably
+<pb n="37" facs="tcp:112665:22"/>
+                  <hi>back ſliding</hi> and <hi>apoſtatizing times,</hi> (moſt of them, I ſay,
+for I beleeve that they doe not <hi>all fight againſt God upon one and the
+ſame principle</hi>) eſpecially our learned &amp; knowing <hi>Courtiers,</hi>
+                  <note place="margin">Marke this, O our learned and knowing Malignants.</note> 
+                  <hi>Prelates,
+ſcandalous Prieſts,</hi> and intelligent <hi>Proteſtants at large,</hi> I greatly
+feare, I ſay, that they come as neere to that ſinne, that terrible and
+unpardonable <hi>ſinne againſt the holy Ghoſt,</hi> and are as deeply plun<g ref="char:EOLhyphen"/>ged
+into it as ever any <hi>Apoſtate</hi> before them which ſinne, (if I
+miſtake not) <hi>is wilfully,</hi>
+                  <note place="margin">The ſinne a<g ref="char:EOLhyphen"/>gainſt the ho<g ref="char:EOLhyphen"/>ly Ghoſt.</note> 
+                  <hi>knowingly, maliciouſly, and perſeveringly to
+perſecute and proſecute with all ſpight and bitterneſſe of ſpirit the Truth
+and true Profeſſors thereof,</hi> eo nomine, <hi>becauſe it is, and they know
+it is the Truth of God,</hi> and therefore they cannot abide it, becauſe
+their owne workes being darkneſſe, they love darkneſſe more than
+light.<note place="margin">2 Theſ 2. 10. 11, 12.</note> And that there are <hi>ſuch</hi> to be found, the Apoſtle <hi>Paul</hi> teſti<g ref="char:EOLhyphen"/>fies,
+and their deſperate <hi>condition</hi> too) and I make no doubt but
+ſome of them have or will bee enforced ere they dye to acknow<g ref="char:EOLhyphen"/>ledge
+and cry out,<note place="margin">I have credibly heard that a ſome of the Kings Cormo<g ref="char:EOLhyphen"/>rants or Cava<g ref="char:EOLhyphen"/>liers have in our late wars cryed out, Let us be gon, for God fights againſt us, as Serjeant-Ma<g ref="char:EOLhyphen"/>jor-Generall <hi>Baſſet</hi> a Roy<g ref="char:EOLhyphen"/>aliſt, who at the diſſolution of the ſiege at <hi>Plimouth,</hi> ſpake the very words to one of our Commanders in our works at his going away.</note> if not true penitence, yet in damnable de<g ref="char:EOLhyphen"/>ſpaire,
+with that accurſed <hi>Apoſtate Julian</hi> the heatheniſh Empe<g ref="char:EOLhyphen"/>rour,
+<hi>
+                     <g ref="char:V">Ʋ</g>iciſti Galilae, viciſti;</hi> So theſe, <hi>You have overcome us, O
+Puritans and Round heads, you have overcome us;</hi> for Gods judge<g ref="char:EOLhyphen"/>ments
+have overtaken us in contending againſt you. And therefore
+I may and muſt ſay unto you all, who ever you be in this caſe,
+and perſiſt therein, as <hi>Simon Peter</hi> ſaid to <hi>Simon Magnus, You are
+certainly in the gall of bitterneſſe,</hi> in thus abuſing the Spirit of grace
+and his peculiar and precious jewels; <hi>pray therefore, O yet pray, if
+peradventure this ſinne may be forgiven you:</hi> which indeed is the
+<hi>ultimum refugium,</hi> the laſt and beſt refuge and hope you have, yet
+moſt unlikely to helpe you, if not ſerious and ſeaſonable; <hi>For, he
+that turnes away his eare from hearing the Law</hi> (that is, <hi>from lo<g ref="char:EOLhyphen"/>ving
+God and goodneſſe, his Cauſe, his Saints and Servants) even his
+very prayers are an abomination to the Lord.</hi> And then you may
+with wicked <hi>Eſau</hi> begge the bleſſing you ſo careleſly and con<g ref="char:EOLhyphen"/>temptuouſly
+ſold away, even with frightfull cryes and teares,
+and yet everlaſtingly goe without it. <hi>O conſider this therefore, all
+ye that thus forget God, leſt he ſuddenly teare you in pieces, and there
+be none to deliver you.</hi>
+                  <note place="margin">Acts 8. 23.</note> And ſince all theſe things are thus conſpi<g ref="char:EOLhyphen"/>cuous
+and evident by all thoſe remarkable forementioned and re<g ref="char:EOLhyphen"/>cited
+examples,<note place="margin">Mal. 3. 17.</note> let not any of the <hi>Malignant</hi> fellow-factors of ſo
+foule abuſes to <hi>Gods Cauſe,</hi>
+                  <note place="margin">Prov. 28. 9.</note> his Church and Children, wilfully
+cloſe up the eyes of their uunderſtanding,<note place="margin">Pſal. 50. 22.</note> and ſtill harden their
+<pb n="38" facs="tcp:112665:23"/>
+hearts and ſpirits againſt ſuch providentiall workings and demon<g ref="char:EOLhyphen"/>ſtrative
+convictions and confeſſions as thoſe are, leſt they alſo be<g ref="char:EOLhyphen"/>come
+fellow-ſeelers of the like exemplary and moſt juſt correcti<g ref="char:EOLhyphen"/>ons.
+But pray,<note place="margin">Revel. 3. 18.</note> O pray (as I will with you and for you) that <hi>God
+would annoint your eyes with that Collyrium, his precious eye-ſalve, that
+you may ſee;</hi> and that he would ſpeake to your Soules and Conſci<g ref="char:EOLhyphen"/>ences
+with a powerfull <hi>Ephphata,</hi>
+                  <note place="margin">Mark 7. 34.</note> 
+                  <hi>Be ye opened;</hi> that ſo you might
+ſee and repent. For I ingenuouſly confeſſe, that unleſſe his Spirit
+ſpeakes thus, all the meanes in the world elſe that may be uſed come
+too ſhort, and are but in vaine: yet give me leave to ſpeake unto
+you as the Lord did to ſtubborne <hi>Iſrael</hi> by the Prophet,<note place="margin">Ezek. 3. 5.</note> 
+                  <hi>You, whe<g ref="char:EOLhyphen"/>ther
+you will heare or not heare (for you are a rebellious and obſtinate
+people) yet ſhall you know that there hath been a word among you;</hi> that
+the meanes have not beene wanting to you, and if you (notwith<g ref="char:EOLhyphen"/>ſtanding
+all Threats and Treats, Mercies, or Judgements) will
+perſiſt deſperately in your malignant folly &amp; madneſſe, I muſt and
+will farther ſay unto you all, as the Spirit of God did of old <hi>Elies</hi>
+moſt wicked and malignant two ſonnes,<note place="margin">1 Sam. 2. 25.</note> 
+                  <hi>Notwithſtanding all that
+their old godly father had ſaid unto them, they hearkned not to the voice
+of their father, and why? becauſe (ſayes the Spirit of God) the Lord
+had a purpoſe, for their incorrigible wickedneſſe, to ſtay and deſtroy them.</hi>
+Wherefore to conclude all, my counſell (in briefe) ſhall be unto
+you all,<note place="margin">Pſal. 2. 10, 11, 12.</note> poore miſerable <hi>malignant</hi> men and women, onely that of
+the holy Spirit of God himſelfe by the holy Prophet <hi>David, Bee
+wiſe now therefore, O ye malignant Princes and Peers of the earth: be
+inſtructed and timely adviſed, O ye Judges and great Ones of the land.
+Serve the Lord with feare, and rejoyce with trembling. Kiſſe the Son,
+even the Lord Ieſus Chriſt, leſt he be angry, and ſo ye periſh from the
+way, when his wrath is kindled, yea but a little: (O what will it be then
+when <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is mightily inflamed?) O then moſt bleſſed are all they only that put
+their truſt in him,</hi>
+                  <note place="margin">Mal. 4. 2.</note> 
+                  <hi>and reſt under the ſhadow of his wings, where onely
+is true healing for body and ſoule.</hi> The Lord give us all aſſiſting and
+perſevering grace ſo to doe. Amen, and Amen.</p>
+               <closer>Omnis gloria ſolius eſt Domini.</closer>
+            </div>
+            <div type="epilogue">
+               <pb facs="tcp:112665:23"/>
+               <head>An Epilogue
+TO MALIGNANTS,
+In the Language of Canaan.</head>
+               <p>IF now after the peruſall (if at leaſt thou hadſt any <hi>piety</hi>
+or <hi>patience</hi> there unto) of all formerly ſaid and ſhewne
+unto thee,<note place="margin">1. Malignants reſolution to God.</note> thou are yet refractorily reſolved to ſay, as
+the <hi>Malignants</hi> did in <hi>Jeremiahs</hi> time to him:<note place="margin">Ier. 44. 16, 17.</note> 
+                  <hi>As for the
+words which thou haſt ſpoken to us in the name of the Lord, we
+will not hearken unto thee, but we will certainly do whatſoever
+thing commeth out of our owne mouth.</hi>
+               </p>
+               <p>
+                  <hi>Then give me leave to tell thee the Lords reſolution
+concerning thee.</hi>
+                  <note place="margin">2. Gods reſolu<g ref="char:EOLhyphen"/>tion to Malig<g ref="char:EOLhyphen"/>nants.</note> Behold, I have ſworne by my great Name
+(ſaith the Lord) that my name ſhall be no more named in the
+mouth of any malignant.<note place="margin">Ier. 44. 26, 27.</note> Behold I will watch over them for
+evill and not for good.<note place="margin">Iſa. 33. 10, 11.</note> Yea, now will I ariſe (ſaith the Lord)
+now will I be exalted; now will I lift up my ſelfe; ye ſhall con<g ref="char:EOLhyphen"/>trive
+Chaffe<g ref="char:punc">▪</g> ye ſhall bring forth Stubble, your owne (curſing)
+breath, as fire, ſhall devoure you.</p>
+               <p>
+                  <hi>But, as for you my people, (my cordiall Covenanters,
+yet that have ſinned againſt me) for your ſins,</hi>
+                  <note place="margin">3. Gods reſoluti<g ref="char:EOLhyphen"/>on to his cor<g ref="char:EOLhyphen"/>diall Covenan<g ref="char:EOLhyphen"/>ters.</note> I will cauſe
+you to paſſe under the rod; I will bring you into the bond of the
+Covenant or Holy-league;<note place="margin">Ezek. 20, 37, 38.</note> And then I will purge out from a<g ref="char:EOLhyphen"/>mong
+you the Rebels or Malignants, and them that tranſgreſſe
+againſt me. I will bring them out of the Countrey where they
+ſojourne, and they ſhall not enter into the Land of Iſrael, or hap<g ref="char:EOLhyphen"/>pineſſe
+of my children.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
